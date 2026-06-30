@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI News Daily · 每日 AI 资讯</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="bg-gradient"></div>
+<div class="bg-grid"></div>
+
+<div class="container">
+
+  <!-- 顶部 Hero 区 -->
+  <header class="hero">
+    <div class="hero-badge">
+      <span class="dot"></span>
+      <span id="update-time">数据加载中...</span>
+    </div>
+    <h1 class="hero-title">
+      <span class="title-main">AI News Daily</span>
+      <span class="title-sub">每日 AI 资讯精选</span>
+    </h1>
+    <p class="hero-desc">由玛瑞自动采集 · 每天 12:00 更新 · T1 官方 + T1.5 X + T2 媒体 三层精选</p>
+  </header>
+
+  <!-- 统计卡片 -->
+  <div class="stats" id="stats">
+    <div class="stat-card">
+      <div class="stat-num" id="stat-total">--</div>
+      <div class="stat-label">今日精选</div>
+    </div>
+    <div class="stat-card stat-t1">
+      <div class="stat-num" id="stat-t1">--</div>
+      <div class="stat-label">官方发布</div>
+    </div>
+    <div class="stat-card stat-t15">
+      <div class="stat-num" id="stat-t15">--</div>
+      <div class="stat-label">核心人物</div>
+    </div>
+    <div class="stat-card stat-t2">
+      <div class="stat-num" id="stat-t2">--</div>
+      <div class="stat-label">媒体报道</div>
+    </div>
+  </div>
+
+  <!-- 筛选标签 -->
+  <div class="filter-bar">
+    <button class="filter-btn active" data-filter="all">全部</button>
+    <button class="filter-btn" data-filter="T1">📣 官方发布</button>
+    <button class="filter-btn" data-filter="T1.5">🐦 核心人物</button>
+    <button class="filter-btn" data-filter="T2">📰 媒体报道</button>
+    <div class="search-wrap">
+      <input type="text" id="search-input" placeholder="搜索新闻标题..." />
+    </div>
+  </div>
+
+  <!-- 新闻卡片区 -->
+  <main id="news-container" class="news-grid">
+    <div class="loading">
+      <div class="spinner"></div>
+      <p>正在加载今日 AI 新闻...</p>
+    </div>
+  </main>
+
+  <!-- 历史归档区 -->
+  <section class="archive-section">
+    <h2 class="section-title">📚 历史归档</h2>
+    <div id="archive-list" class="archive-list">
+      <p class="archive-empty">暂无历史数据</p>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <p>由玛瑞自动采集 · 基于 AIHOT 信源分级经验 · T1/T1.5/T2 三层精选</p>
+    <p class="footer-sub">数据更新：每天 12:00 · 本地静态展示</p>
+  </footer>
+
+</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>
