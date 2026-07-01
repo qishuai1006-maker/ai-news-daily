@@ -23,7 +23,7 @@
       <span class="title-main">AI News Daily</span>
       <span class="title-sub">每日 AI 资讯精选</span>
     </h1>
-    <p class="hero-desc">由玛瑞自动采集 · 每天 12:00 更新 · T1 官方 + T1.5 X + T2 媒体 三层精选</p>
+    <p class="hero-desc">由玛瑞自动采集 · 每天 12:00 更新 · 官方 + X 推文 + 全网搜索 + 媒体 四层精选</p>
   </header>
 
   <!-- 统计卡片 -->
@@ -33,37 +33,50 @@
       <div class="stat-label">今日精选</div>
     </div>
     <div class="stat-card stat-t1">
-      <div class="stat-num" id="stat-t1">--</div>
-      <div class="stat-label">官方发布</div>
+      <div class="stat-num" id="stat-news">--</div>
+      <div class="stat-label">新闻</div>
     </div>
     <div class="stat-card stat-t15">
-      <div class="stat-num" id="stat-t15">--</div>
-      <div class="stat-label">核心人物</div>
+      <div class="stat-num" id="stat-x">--</div>
+      <div class="stat-label">X 推文</div>
     </div>
     <div class="stat-card stat-t2">
-      <div class="stat-num" id="stat-t2">--</div>
-      <div class="stat-label">媒体报道</div>
+      <div class="stat-num" id="stat-media">--</div>
+      <div class="stat-label">来源</div>
     </div>
   </div>
 
-  <!-- 筛选标签 -->
+  <!-- 筛选 / 搜索 -->
   <div class="filter-bar">
-    <button class="filter-btn active" data-filter="all">全部</button>
-    <button class="filter-btn" data-filter="T1">📣 官方发布</button>
-    <button class="filter-btn" data-filter="T1.5">🐦 核心人物</button>
-    <button class="filter-btn" data-filter="T2">📰 媒体报道</button>
     <div class="search-wrap">
-      <input type="text" id="search-input" placeholder="搜索新闻标题..." />
+      <input type="text" id="search-input" placeholder="🔍 搜索新闻标题或来源..." />
     </div>
   </div>
 
-  <!-- 新闻卡片区 -->
-  <main id="news-container" class="news-grid">
-    <div class="loading">
-      <div class="spinner"></div>
-      <p>正在加载今日 AI 新闻...</p>
+  <!-- X 推文专区（独立显示） -->
+  <section class="x-section" id="x-section">
+    <div class="section-header">
+      <h2 class="section-title">🐦 X 推文</h2>
+      <span class="section-sub">核心人物动态</span>
     </div>
-  </main>
+    <div id="x-container" class="x-feed">
+      <div class="loading"><p>加载中...</p></div>
+    </div>
+  </section>
+
+  <!-- 新闻专区（官方 + Exa + 媒体混在一起） -->
+  <section class="news-section" id="news-section">
+    <div class="section-header">
+      <h2 class="section-title">📰 新闻</h2>
+      <span class="section-sub">官方发布 · 全网热点 · 媒体报道</span>
+    </div>
+    <div id="news-container" class="news-grid">
+      <div class="loading">
+        <div class="spinner"></div>
+        <p>正在加载今日新闻...</p>
+      </div>
+    </div>
+  </section>
 
   <!-- 历史归档区 -->
   <section class="archive-section">
@@ -74,8 +87,8 @@
   </section>
 
   <footer class="footer">
-    <p>由玛瑞自动采集 · 基于 AIHOT 信源分级经验 · T1/T1.5/T2 三层精选</p>
-    <p class="footer-sub">数据更新：每天 12:00 · 本地静态展示</p>
+    <p>由玛瑞自动采集 · 基于 AIHOT 信源分级经验 · T1/T1.5/T1.6/T2 四层精选</p>
+    <p class="footer-sub">数据更新：每天 12:00 · GitHub Pages 全球访问</p>
   </footer>
 
 </div>
