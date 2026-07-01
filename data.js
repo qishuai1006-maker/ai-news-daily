@@ -1,82 +1,82 @@
 /* ============================================
    AI News Daily · 数据文件
-   由 build_news.py 自动生成于 2026-07-01 12:19
+   由 build_news.py 自动生成于 2026-07-01 19:49
    ============================================ */
 
 const TODAY_DATA = {
   "date": "2026-07-01",
-  "run_time": "12:19",
+  "run_time": "19:49",
   "source_file": "2026-07-01_articles.json",
   "items": [
     {
       "layer": "T1",
-      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "title": "使用Nano Banana 2 Lite和Gemini Omni Flash开始构建",
       "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
       "source": "DeepMind"
     },
     {
       "layer": "T1",
-      "title": "How ChatGPT adoption has expanded",
+      "title": "ChatGPT采用率如何扩展",
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
       "source": "OpenAI"
     },
     {
       "layer": "T1",
-      "title": "Unlocking Britain’s next era of productivity: Building a na…",
+      "title": "开启英国下一个生产力时代：打造人工智能开拓者之国",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
       "source": "Google"
     },
     {
       "layer": "T1",
-      "title": "Introducing GeneBench-Pro",
+      "title": "GeneBench-Pro简介",
       "url": "https://openai.com/index/introducing-genebench-pro",
       "source": "OpenAI"
     },
     {
       "layer": "T1.5",
-      "title": "Introducing a limited preview of GPT-5.6 Sol, our next gene…",
+      "title": "推出有限预览版的GPT-5.6 Sol ，我们的下一代前沿型号，以及GPT-5.6 Terra ，一种高效、日常生活的…",
       "url": "https://x.com/OpenAI/status/2070555272230384038",
       "source": "@OpenAI"
     },
     {
       "layer": "T1.5",
-      "title": "GPT‑5.6 Sol launches with our most robust safety stack yet.…",
+      "title": "GPT ‑ 5.6 SOL推出了迄今为止最强大的安全堆栈。\n\n我们加强了针对高风险网络活动和重复滥用的实时保护",
       "url": "https://x.com/OpenAI/status/2070555280052826429",
       "source": "@OpenAI"
     },
     {
       "layer": "T1.5",
-      "title": "GPT-5.6 Sol is our most capable model yet for cybersecurity…",
+      "title": "GPT-5.6 SOL是我们迄今为止最强大的网络安全模型。\n\n它改变了长远安全任务的性能效率前沿，包括",
       "url": "https://x.com/OpenAI/status/2070555278576439306",
       "source": "@OpenAI"
     },
     {
       "layer": "T1.5",
-      "title": "GPT‑5.6 Sol sets a new state of the art on Terminal‑Bench 2…",
+      "title": "GPT ‑ 5.6 SOL在Terminal ‑ Bench 2.1上设置了新的先进技术，它测试了需要规划、迭代和工具…",
       "url": "https://x.com/OpenAI/status/2070555276370169969",
       "source": "@OpenAI"
     },
     {
       "layer": "T1.6",
-      "title": "AI Updates Today (July 2026) – Latest AI Model Releases",
-      "url": "https://llm-stats.com/llm-updates",
-      "source": "llm-stats.com"
+      "title": "Anthropic部署Claude Sonnet 5 ，恢复寓言和神话",
+      "url": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
+      "source": "artificialintelligence-news.com"
     },
     {
       "layer": "T1.6",
-      "title": "OKX Launches AI Agent Marketplace for Autonomous Hiring — C…",
-      "url": "https://contentbuffer.com/news/okx-launches-ai-agent-marketplace-autonomous-hiring-fcbce126",
-      "source": "contentbuffer.com"
+      "title": "NVIDIA发布Nemotron-Labs-TwoTower ：基于冷冻自回归Nemotron-3-Nano-30B-…",
+      "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower/",
+      "source": "marktechpost.com"
     },
     {
       "layer": "T1.6",
-      "title": "Google Adds Managed Agents to Gemini API in One Call — Cont…",
-      "url": "https://contentbuffer.com/news/google-adds-managed-agents-gemini-api-one-call-5a69f43c",
-      "source": "contentbuffer.com"
+      "title": "谷歌人工智能推出TabFM ：用于零拍分类和回归的混合注意力表格基础模型- MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression/",
+      "source": "marktechpost.com"
     },
     {
       "layer": "T2",
-      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t …",
+      "title": "Tidal不会对人工智能生成的音乐支付版税，但并没有完全禁止",
       "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
       "source": "The Verge"
     }
