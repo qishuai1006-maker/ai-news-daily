@@ -1,11 +1,11 @@
 /* ============================================
    AI News Daily · 数据文件
-   由 build_news.py 自动生成于 2026-07-01 19:49
+   由 build_news.py 自动生成于 2026-07-01 21:01
    ============================================ */
 
 const TODAY_DATA = {
   "date": "2026-07-01",
-  "run_time": "19:49",
+  "run_time": "21:01",
   "source_file": "2026-07-01_articles.json",
   "items": [
     {
@@ -40,21 +40,21 @@ const TODAY_DATA = {
     },
     {
       "layer": "T1.5",
-      "title": "GPT ‑ 5.6 SOL推出了迄今为止最强大的安全堆栈。\n\n我们加强了针对高风险网络活动和重复滥用的实时保护",
-      "url": "https://x.com/OpenAI/status/2070555280052826429",
-      "source": "@OpenAI"
+      "title": "Claude Fable 5将于明天在全球范围内再次推出。\n\n在与美国政府进行了一系列富有成效的对话后，我们正在重新部署",
+      "url": "https://x.com/AnthropicAI/status/2072163884430229756",
+      "source": "@AnthropicAI"
     },
     {
       "layer": "T1.5",
-      "title": "GPT-5.6 SOL是我们迄今为止最强大的网络安全模型。\n\n它改变了长远安全任务的性能效率前沿，包括",
-      "url": "https://x.com/OpenAI/status/2070555278576439306",
-      "source": "@OpenAI"
+      "title": "我们将发布两项重大更新，以简化您的创意工作流程，让您可以使用一个模型生成高速图像，然后立即",
+      "url": "https://x.com/GoogleAI/status/2071989058952188054",
+      "source": "@GoogleAI"
     },
     {
       "layer": "T1.5",
-      "title": "GPT ‑ 5.6 SOL在Terminal ‑ Bench 2.1上设置了新的先进技术，它测试了需要规划、迭代和工具…",
-      "url": "https://x.com/OpenAI/status/2070555276370169969",
-      "source": "@OpenAI"
+      "title": "Muse Spark是Meta Superintelligence Labs开发的Muse系列模型中的第一款。\n\nMu…",
+      "url": "https://x.com/AIatMeta/status/2041910285653737975",
+      "source": "@AIatMeta (Meta)"
     },
     {
       "layer": "T1.6",
@@ -76,8 +76,8 @@ const TODAY_DATA = {
     },
     {
       "layer": "T2",
-      "title": "Tidal不会对人工智能生成的音乐支付版税，但并没有完全禁止",
-      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "title": "谷歌打造了一款出色的智能音箱，但Gemini还没有做好准备",
+      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
       "source": "The Verge"
     }
   ]
