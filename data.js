@@ -1,13 +1,86 @@
 /* ============================================
    AI News Daily · 数据文件
-   由 build_news.py 自动生成于 2026-07-01 12:05
+   由 build_news.py 自动生成于 2026-07-01 12:19
    ============================================ */
 
 const TODAY_DATA = {
   "date": "2026-07-01",
-  "run_time": "12:02",
-  "source_file": "2026-07-01_12-02-35.md",
-  "items": []
+  "run_time": "12:19",
+  "source_file": "2026-07-01_articles.json",
+  "items": [
+    {
+      "layer": "T1",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "source": "DeepMind"
+    },
+    {
+      "layer": "T1",
+      "title": "How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "source": "OpenAI"
+    },
+    {
+      "layer": "T1",
+      "title": "Unlocking Britain’s next era of productivity: Building a na…",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "source": "Google"
+    },
+    {
+      "layer": "T1",
+      "title": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "source": "OpenAI"
+    },
+    {
+      "layer": "T1.5",
+      "title": "Introducing a limited preview of GPT-5.6 Sol, our next gene…",
+      "url": "https://x.com/OpenAI/status/2070555272230384038",
+      "source": "@OpenAI"
+    },
+    {
+      "layer": "T1.5",
+      "title": "GPT‑5.6 Sol launches with our most robust safety stack yet.…",
+      "url": "https://x.com/OpenAI/status/2070555280052826429",
+      "source": "@OpenAI"
+    },
+    {
+      "layer": "T1.5",
+      "title": "GPT-5.6 Sol is our most capable model yet for cybersecurity…",
+      "url": "https://x.com/OpenAI/status/2070555278576439306",
+      "source": "@OpenAI"
+    },
+    {
+      "layer": "T1.5",
+      "title": "GPT‑5.6 Sol sets a new state of the art on Terminal‑Bench 2…",
+      "url": "https://x.com/OpenAI/status/2070555276370169969",
+      "source": "@OpenAI"
+    },
+    {
+      "layer": "T1.6",
+      "title": "AI Updates Today (July 2026) – Latest AI Model Releases",
+      "url": "https://llm-stats.com/llm-updates",
+      "source": "llm-stats.com"
+    },
+    {
+      "layer": "T1.6",
+      "title": "OKX Launches AI Agent Marketplace for Autonomous Hiring — C…",
+      "url": "https://contentbuffer.com/news/okx-launches-ai-agent-marketplace-autonomous-hiring-fcbce126",
+      "source": "contentbuffer.com"
+    },
+    {
+      "layer": "T1.6",
+      "title": "Google Adds Managed Agents to Gemini API in One Call — Cont…",
+      "url": "https://contentbuffer.com/news/google-adds-managed-agents-gemini-api-one-call-5a69f43c",
+      "source": "contentbuffer.com"
+    },
+    {
+      "layer": "T2",
+      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t …",
+      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "source": "The Verge"
+    }
+  ]
 };
 
 const ARCHIVES = [
@@ -115,7 +188,7 @@ const ARCHIVES = [
       },
       {
         "layer": "T1.5",
-        "title": "[推] 推出我们的下一代前沿型号 GPT-5.6 SOL 的有限预览版，以及高效、日常生活的平衡型号 GPT-5.6 TERRA",
+        "title": "[推] 推出我们的下一代前沿型号 GPT-5.6 SOL 的有限预览版，以及高效、日常生活的平衡型号 GPT-5.6 T",
         "url": "https://x.com/OpenAI/status/2070555272230384038",
         "source": "@OpenAI"
       },
@@ -161,7 +234,68 @@ const ARCHIVES = [
     "date": "2026-06-28",
     "run_time": "12:06",
     "source_file": "2026-06-28_12-06-18.md",
-    "items": []
+    "items": [
+      {
+        "layer": "T1",
+        "title": "性能红利：直接在 Visual Studio Code 中优化 Azure 上的 PostgreSQL",
+        "url": "",
+        "source": "Microsoft AI"
+      },
+      {
+        "layer": "T1",
+        "title": "预览 GPT-5.6 SOL：下一代型号",
+        "url": "",
+        "source": "OpenAI Blog"
+      },
+      {
+        "layer": "T1",
+        "title": "Google 财经升级 + 全新应用",
+        "url": "",
+        "source": "Google AI Blog"
+      },
+      {
+        "layer": "T1.5",
+        "title": "OpenAI 推出 GPT-5.6 SOL 有限预览 + GPT-5.6 TERRA 日常平衡版",
+        "url": "",
+        "source": "@OpenAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "GPT-5.6 SOL 网络安全性能前沿",
+        "url": "",
+        "source": "@OpenAI"
+      },
+      {
+        "layer": "T2",
+        "title": "Facebook Creator Studio 重新上线为 AI 配套应用",
+        "url": "",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "Figma 推出 AI 动态图形和着色器工具",
+        "url": "",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "Fitbit Air 智能处理 AI 健康教练",
+        "url": "",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "索尼 AI 相机助手翻车",
+        "url": "",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "Meta 争议性 AI 员工培训计划",
+        "url": "",
+        "source": "The Verge"
+      }
+    ]
   },
   {
     "date": "2026-06-27",
@@ -200,7 +334,7 @@ const ARCHIVES = [
       },
       {
         "layer": "T1.5",
-        "title": "[推]回复[@ OpenAI] (https://x.com/OpenAI) GPT-5.6 SOL是我们迄今为止最强大的网络安全模型。它改变了性能效率的前沿",
+        "title": "[推]回复[@ OpenAI] (https://x.com/OpenAI) GPT-5.6 SOL是我们迄今为止最强大",
         "url": "https://x.com/OpenAI/status/2070555278576439306",
         "source": "@OpenAI"
       },
@@ -267,7 +401,7 @@ const ARCHIVES = [
       },
       {
         "layer": "T1.5",
-        "title": "[推] 我们与波士顿儿童医院和哈佛大学的研究人员一起在NEJM AI上发表了一项研究，展示了o3 Deep Research如何帮助临床医生",
+        "title": "[推] 我们与波士顿儿童医院和哈佛大学的研究人员一起在NEJM AI上发表了一项研究，展示了o3 Deep Resear",
         "url": "https://x.com/OpenAI/status/2067625110199247353",
         "source": "@OpenAI"
       },
@@ -340,7 +474,7 @@ const ARCHIVES = [
       },
       {
         "layer": "T1.5",
-        "title": "[推]我们与波士顿儿童医院和哈佛大学的研究人员一起在NEJM AI上发表了一项研究，展示了o3 Deep Research如何帮助临床医生",
+        "title": "[推]我们与波士顿儿童医院和哈佛大学的研究人员一起在NEJM AI上发表了一项研究，展示了o3 Deep Researc",
         "url": "https://x.com/OpenAI/status/2067625110199247353",
         "source": "@OpenAI"
       },
@@ -413,7 +547,7 @@ const ARCHIVES = [
       },
       {
         "layer": "T1.5",
-        "title": "[推]我们与波士顿儿童医院和哈佛大学的研究人员一起在NEJM AI上发表了一项研究，展示了o3 Deep Research如何帮助临床医生",
+        "title": "[推]我们与波士顿儿童医院和哈佛大学的研究人员一起在NEJM AI上发表了一项研究，展示了o3 Deep Researc",
         "url": "https://x.com/OpenAI/status/2067625110199247353",
         "source": "@OpenAI"
       },
@@ -448,12 +582,6 @@ const ARCHIVES = [
         "source": "The Verge"
       }
     ]
-  },
-  {
-    "date": "2026-06-23",
-    "run_time": "13:20",
-    "source_file": "2026-06-23_13-20-57.md",
-    "items": []
   },
   {
     "date": "2026-06-22",
@@ -761,12 +889,6 @@ const ARCHIVES = [
     ]
   },
   {
-    "date": "2026-06-17",
-    "run_time": "12:04",
-    "source_file": "2026-06-17_12-04-13.md",
-    "items": []
-  },
-  {
     "date": "2026-06-16",
     "run_time": "12:03",
     "source_file": "2026-06-16_12-03-32.md",
@@ -834,18 +956,6 @@ const ARCHIVES = [
     ]
   },
   {
-    "date": "2026-06-15",
-    "run_time": "12:45",
-    "source_file": "2026-06-15_12-45-49.md",
-    "items": []
-  },
-  {
-    "date": "2026-06-14",
-    "run_time": "12:33",
-    "source_file": "2026-06-14_12-33-32.md",
-    "items": []
-  },
-  {
     "date": "2026-06-13",
     "run_time": "12:03",
     "source_file": "2026-06-13_12-03-15.md",
@@ -903,6 +1013,12 @@ const ARCHIVES = [
         "title": "我尝试了 Siri AI，到目前为止，它实际上是有效的",
         "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
         "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "Add fallback nitter mirrors in `ai_news_digest_v2.py`",
+        "url": "",
+        "source": "single-instance dependency is a fragility risk"
       }
     ]
   },
@@ -910,13 +1026,51 @@ const ARCHIVES = [
     "date": "2026-06-12",
     "run_time": "12:02",
     "source_file": "2026-06-12_12-02-36.md",
-    "items": []
+    "items": [
+      {
+        "layer": "T2",
+        "title": "Google 因向 YouTube 创作者提供 Lyria 音乐 AI 遭起诉",
+        "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "Google 将保留用户的 Lens 照片、Search 录音、翻译音频用于 AI 训练",
+        "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "Apple Intelligence 新版 Siri AI 实测可用",
+        "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+        "source": "The Verge（WWDC 2026 / iOS 27）"
+      },
+      {
+        "layer": "T2",
+        "title": "微软 AI 负责人 Mustafa Suleyman 称 Anthropic 的 Claude 表现得像有意识",
+        "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "Apple 押注 AI 照片编辑，可能助长深度伪造",
+        "url": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+        "source": "The Verge（iOS 27 / WWDC 2026）"
+      }
+    ]
   },
   {
     "date": "2026-06-11",
     "run_time": "12:03",
     "source_file": "2026-06-11_12-03-20.md",
-    "items": []
+    "items": [
+      {
+        "layer": "T1",
+        "title": "天体物理学家如何使用法典来帮助模拟黑洞 🔗 https://openai.com/index/using-codex-t",
+        "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+        "source": ""
+      }
+    ]
   },
   {
     "date": "2026-06-10",
@@ -925,17 +1079,17 @@ const ARCHIVES = [
     "items": [
       {
         "layer": "T1",
-        "title": "使用Gemini3.5实时翻译实现流畅、自然的语音翻译 🔗 https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+        "title": "使用Gemini3.5实时翻译实现流畅、自然的语音翻译 🔗 https://deepmind.google/blog/f",
         "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
         "source": "DeepMind Blog【3】推动欧洲机器人技术的未来 🔗 https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/"
+      },
+      {
+        "layer": "T2",
+        "title": "Nextdoor的工程师如何使用Codex无限制地构建 🔗 https://openai.com/index/nextd",
+        "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+        "source": ""
       }
     ]
-  },
-  {
-    "date": "2026-06-09",
-    "run_time": "12:08",
-    "source_file": "2026-06-09_12-08-46.md",
-    "items": []
   },
   {
     "date": "2026-06-08",
@@ -1005,12 +1159,6 @@ const ARCHIVES = [
     ]
   },
   {
-    "date": "2026-06-06",
-    "run_time": "10:06",
-    "source_file": "2026-06-06_10-06-26.md",
-    "items": []
-  },
-  {
     "date": "2026-06-05",
     "run_time": "20:14",
     "source_file": "2026-06-05_20-14-34.md",
@@ -1047,7 +1195,7 @@ const ARCHIVES = [
       },
       {
         "layer": "T1.5",
-        "title": "[推]当我们的一个模型发现一个80岁的Erdős猜想的反例时会发生什么？研究人员 @alexwei_ @HongxunWu @wjmzbmr1",
+        "title": "[推]当我们的一个模型发现一个80岁的Erdős猜想的反例时会发生什么？研究人员 @alexwei_ @HongxunW",
         "url": "https://x.com/OpenAI/status/2062630454537424930",
         "source": "@OpenAI"
       },
@@ -1082,12 +1230,6 @@ const ARCHIVES = [
         "source": "The Verge"
       }
     ]
-  },
-  {
-    "date": "2026-06-05",
-    "run_time": "10:06",
-    "source_file": "2026-06-05_10-06-09.md",
-    "items": []
   },
   {
     "date": "2026-06-04",
@@ -1161,17 +1303,5 @@ const ARCHIVES = [
         "source": "The Verge"
       }
     ]
-  },
-  {
-    "date": "2026-06-02",
-    "run_time": "20:03",
-    "source_file": "2026-06-02_20-03-15.md",
-    "items": []
-  },
-  {
-    "date": "2026-06-01",
-    "run_time": "10:01",
-    "source_file": "2026-06-01_10-01-26.md",
-    "items": []
   }
 ];
