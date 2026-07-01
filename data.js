@@ -1,11 +1,11 @@
 /* ============================================
    AI News Daily · 数据文件
-   由 build_news.py 自动生成于 2026-07-01 21:01
+   由 build_news.py 自动生成于 2026-07-01 21:06
    ============================================ */
 
 const TODAY_DATA = {
   "date": "2026-07-01",
-  "run_time": "21:01",
+  "run_time": "21:06",
   "source_file": "2026-07-01_articles.json",
   "items": [
     {
@@ -51,12 +51,6 @@ const TODAY_DATA = {
       "source": "@GoogleAI"
     },
     {
-      "layer": "T1.5",
-      "title": "Muse Spark是Meta Superintelligence Labs开发的Muse系列模型中的第一款。\n\nMu…",
-      "url": "https://x.com/AIatMeta/status/2041910285653737975",
-      "source": "@AIatMeta (Meta)"
-    },
-    {
       "layer": "T1.6",
       "title": "Anthropic部署Claude Sonnet 5 ，恢复寓言和神话",
       "url": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
@@ -69,16 +63,22 @@ const TODAY_DATA = {
       "source": "marktechpost.com"
     },
     {
-      "layer": "T1.6",
-      "title": "谷歌人工智能推出TabFM ：用于零拍分类和回归的混合注意力表格基础模型- MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression/",
-      "source": "marktechpost.com"
-    },
-    {
       "layer": "T2",
       "title": "谷歌打造了一款出色的智能音箱，但Gemini还没有做好准备",
       "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
       "source": "The Verge"
+    },
+    {
+      "layer": "T2",
+      "title": "Anthropic成为首家加入Frontier Carbon Removal Coalition的Ai初创公司",
+      "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+      "source": "TechCrunch"
+    },
+    {
+      "layer": "T2",
+      "title": "在特朗普发出警告后，科学家再次发现泰诺和自闭症之间没有联系",
+      "url": "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/",
+      "source": "Ars Technica"
     }
   ]
 };
