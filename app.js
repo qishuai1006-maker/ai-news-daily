@@ -8,11 +8,17 @@ let currentData = null;
 let archiveIndex = new Map();
 
 // ========== 初始化 ==========
-document.addEventListener('DOMContentLoaded', () => {
+function init() {
   loadToday();
   loadArchives();
   bindEvents();
-});
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', init);
+} else {
+  init();
+}
 
 function bindEvents() {
   const searchInput = document.getElementById('search-input');
