@@ -93,8 +93,8 @@
 
 </div>
 
-<script src="data.js"></script>
-<script src="app.js" onerror="alert('app.js load error')"></script>
+<script src="data.js" defer></script>
+<script src="app.js" defer onerror="alert('app.js load error')"></script>
 <script>
   // 调试：捕获初始化错误并显示在页面上
   window.addEventListener('error', (e) => {
