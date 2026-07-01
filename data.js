@@ -1,83 +1,89 @@
 /* ============================================
    AI News Daily · 数据文件
-   由 build_news.py 自动生成于 2026-07-01 10:28
+   由 build_news.py 自动生成于 2026-07-01 12:05
    ============================================ */
 
 const TODAY_DATA = {
-  "date": "2026-06-30",
-  "run_time": "12:04",
-  "source_file": "2026-06-30_12-04-03.md",
-  "items": [
-    {
-      "layer": "T1",
-      "title": "向人工智能专家提问：全栈到底是什么？",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-      "source": "Google AI Blog"
-    },
-    {
-      "layer": "T1",
-      "title": "映射欧洲的人工智能劳动力机会",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "source": "OpenAI Blog"
-    },
-    {
-      "layer": "T1",
-      "title": "惠普公司与OpenAI建立Frontier战略合作伙伴关系",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "source": "OpenAI Blog"
-    },
-    {
-      "layer": "T1",
-      "title": "性能红利：直接在Visual Studio Code中优化Azure上的PostgreSQL",
-      "url": "https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/",
-      "source": "Microsoft AI"
-    },
-    {
-      "layer": "T1.5",
-      "title": "[推]推出我们的下一代前沿型号GPT-5.6 SOL的有限预览版，以及高效、日常生活的平衡型号GPT-5.6 TERRA",
-      "url": "https://x.com/OpenAI/status/2070555272230384038",
-      "source": "@OpenAI"
-    },
-    {
-      "layer": "T1.5",
-      "title": "[推] GPT-5.6 SOL推出了迄今为止最强大的安全堆栈。我们加强了针对高风险网络活动和重复滥用的实时保护",
-      "url": "https://x.com/OpenAI/status/2070555280052826429",
-      "source": "@OpenAI"
-    },
-    {
-      "layer": "T2",
-      "title": "Tidal不会对人工智能生成的音乐支付版税，但并未完全禁止",
-      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-      "source": "The Verge"
-    },
-    {
-      "layer": "T2",
-      "title": "Facebook的Creator Studio已恢复为人工智能配套应用",
-      "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-      "source": "The Verge"
-    },
-    {
-      "layer": "T2",
-      "title": "Figma现在拥有AI动态图形和着色器工具",
-      "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-      "source": "The Verge"
-    },
-    {
-      "layer": "T2",
-      "title": "Cursor现在有一个移动应用程序，可以在旅途中指导您的编码代理",
-      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-      "source": "TechCrunch"
-    },
-    {
-      "layer": "T2",
-      "title": "Arena每个人都在使用的AI排行榜现在是一个1亿的业务",
-      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-      "source": "TechCrunch"
-    }
-  ]
+  "date": "2026-07-01",
+  "run_time": "12:02",
+  "source_file": "2026-07-01_12-02-35.md",
+  "items": []
 };
 
 const ARCHIVES = [
+  {
+    "date": "2026-06-30",
+    "run_time": "12:04",
+    "source_file": "2026-06-30_12-04-03.md",
+    "items": [
+      {
+        "layer": "T1",
+        "title": "向人工智能专家提问：全栈到底是什么？",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+        "source": "Google AI Blog"
+      },
+      {
+        "layer": "T1",
+        "title": "映射欧洲的人工智能劳动力机会",
+        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+        "source": "OpenAI Blog"
+      },
+      {
+        "layer": "T1",
+        "title": "惠普公司与OpenAI建立Frontier战略合作伙伴关系",
+        "url": "https://openai.com/index/hp-frontier-partnership",
+        "source": "OpenAI Blog"
+      },
+      {
+        "layer": "T1",
+        "title": "性能红利：直接在Visual Studio Code中优化Azure上的PostgreSQL",
+        "url": "https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/",
+        "source": "Microsoft AI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "[推]推出我们的下一代前沿型号GPT-5.6 SOL的有限预览版，以及高效、日常生活的平衡型号GPT-5.6 TERRA",
+        "url": "https://x.com/OpenAI/status/2070555272230384038",
+        "source": "@OpenAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "[推] GPT-5.6 SOL推出了迄今为止最强大的安全堆栈。我们加强了针对高风险网络活动和重复滥用的实时保护",
+        "url": "https://x.com/OpenAI/status/2070555280052826429",
+        "source": "@OpenAI"
+      },
+      {
+        "layer": "T2",
+        "title": "Tidal不会对人工智能生成的音乐支付版税，但并未完全禁止",
+        "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "Facebook的Creator Studio已恢复为人工智能配套应用",
+        "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "Figma现在拥有AI动态图形和着色器工具",
+        "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "Cursor现在有一个移动应用程序，可以在旅途中指导您的编码代理",
+        "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+        "source": "TechCrunch"
+      },
+      {
+        "layer": "T2",
+        "title": "Arena每个人都在使用的AI排行榜现在是一个1亿的业务",
+        "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+        "source": "TechCrunch"
+      }
+    ]
+  },
   {
     "date": "2026-06-29",
     "run_time": "12:01",
@@ -1166,12 +1172,6 @@ const ARCHIVES = [
     "date": "2026-06-01",
     "run_time": "10:01",
     "source_file": "2026-06-01_10-01-26.md",
-    "items": []
-  },
-  {
-    "date": "2026-05-31",
-    "run_time": "20:20",
-    "source_file": "2026-05-31_20-20-22.md",
     "items": []
   }
 ];
