@@ -94,7 +94,16 @@
 </div>
 
 <script src="data.js"></script>
-<script src="app.js"></script>
+<script src="app.js" onerror="alert('app.js load error')"></script>
+<script>
+  // 调试：捕获初始化错误并显示在页面上
+  window.addEventListener('error', (e) => {
+    const banner = document.createElement('div');
+    banner.style.cssText = 'position:fixed;top:0;left:0;right:0;background:#c00;color:white;padding:8px;z-index:9999;font-family:monospace;font-size:12px;';
+    banner.textContent = 'JS Error: ' + e.message + ' @ ' + e.filename + ':' + e.lineno;
+    document.body.appendChild(banner);
+  });
+</script>
 
 </body>
 </html>
