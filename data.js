@@ -1,13 +1,19 @@
 /* ============================================
    AI News Daily · 数据文件
-   由 build_news.py 自动生成于 2026-07-01 21:06
+   由 build_news.py 自动生成于 2026-07-02 12:05
    ============================================ */
 
 const TODAY_DATA = {
-  "date": "2026-07-01",
-  "run_time": "21:06",
-  "source_file": "2026-07-01_articles.json",
+  "date": "2026-07-02",
+  "run_time": "12:05",
+  "source_file": "2026-07-02_articles.json",
   "items": [
+    {
+      "layer": "T1",
+      "title": "我们在2026年6月宣布的最新人工智能新闻",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "source": "Google"
+    },
     {
       "layer": "T1",
       "title": "使用Nano Banana 2 Lite和Gemini Omni Flash开始构建",
@@ -22,14 +28,14 @@ const TODAY_DATA = {
     },
     {
       "layer": "T1",
-      "title": "开启英国下一个生产力时代：打造人工智能开拓者之国",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "title": "纽约市的教育工作者和行业领袖聚集在谷歌的办公室，塑造教室人工智能的未来。",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
       "source": "Google"
     },
     {
       "layer": "T1",
-      "title": "GeneBench-Pro简介",
-      "url": "https://openai.com/index/introducing-genebench-pro",
+      "title": "Genebench-Pro内部",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
       "source": "OpenAI"
     },
     {
@@ -40,27 +46,21 @@ const TODAY_DATA = {
     },
     {
       "layer": "T1.5",
-      "title": "Claude Fable 5将于明天在全球范围内再次推出。\n\n在与美国政府进行了一系列富有成效的对话后，我们正在重新部署",
-      "url": "https://x.com/AnthropicAI/status/2072163884430229756",
+      "title": "RT @ claudeai ：寓言5又回来了。",
+      "url": "https://x.com/AnthropicAI/status/2072405052518752717",
       "source": "@AnthropicAI"
     },
     {
       "layer": "T1.5",
-      "title": "我们将发布两项重大更新，以简化您的创意工作流程，让您可以使用一个模型生成高速图像，然后立即",
-      "url": "https://x.com/GoogleAI/status/2071989058952188054",
+      "title": "随着生成式人工智能工具的不断发展，我们认为比以往任何时候都更重要的是要知道什么是人工智能生成的，什么不是。这就是为什么…",
+      "url": "https://x.com/GoogleAI/status/2072318809277390940",
       "source": "@GoogleAI"
     },
     {
-      "layer": "T1.6",
-      "title": "Anthropic部署Claude Sonnet 5 ，恢复寓言和神话",
-      "url": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
-      "source": "artificialintelligence-news.com"
-    },
-    {
-      "layer": "T1.6",
-      "title": "NVIDIA发布Nemotron-Labs-TwoTower ：基于冷冻自回归Nemotron-3-Nano-30B-…",
-      "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower/",
-      "source": "marktechpost.com"
+      "layer": "T1.5",
+      "title": "GPT ‑ 5.6 SOL推出了迄今为止最强大的安全堆栈。\n\n我们加强了针对高风险网络活动和重复滥用的实时保护",
+      "url": "https://x.com/OpenAI/status/2070555280052826429",
+      "source": "@OpenAI"
     },
     {
       "layer": "T2",
@@ -70,20 +70,75 @@ const TODAY_DATA = {
     },
     {
       "layer": "T2",
-      "title": "Anthropic成为首家加入Frontier Carbon Removal Coalition的Ai初创公司",
-      "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+      "title": "Anthropics Claude Science押注工作流程不是赢得科学家青睐的新模式",
+      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
       "source": "TechCrunch"
     },
     {
       "layer": "T2",
-      "title": "在特朗普发出警告后，科学家再次发现泰诺和自闭症之间没有联系",
-      "url": "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/",
+      "title": "T-Mobile在诉讼中将数万台虚拟机从VMware中移除",
+      "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
       "source": "Ars Technica"
     }
   ]
 };
 
 const ARCHIVES = [
+  {
+    "date": "2026-07-01",
+    "run_time": "12:02",
+    "source_file": "2026-07-01_12-02-35.md",
+    "items": [
+      {
+        "layer": "T1",
+        "title": "Nano Banana 2 Lite + Gemini Omni Flash",
+        "url": "",
+        "source": "DeepMind"
+      },
+      {
+        "layer": "T1",
+        "title": "ChatGPT 采用率扩展",
+        "url": "",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1",
+        "title": "英国 AI 开拓者之国",
+        "url": "",
+        "source": "Google"
+      },
+      {
+        "layer": "T1",
+        "title": "GeneBench-Pro 简介",
+        "url": "",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T2",
+        "title": "Tidal 不为 AI 音乐付版税但未完全禁止",
+        "url": "",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "Facebook Creator Studio 恢复为 AI 配套应用",
+        "url": "",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "最强创始人用 AI 反击癌症",
+        "url": "",
+        "source": "TechCrunch"
+      },
+      {
+        "layer": "T2",
+        "title": "Anthropic 推出 Claude Sonnet 5",
+        "url": "",
+        "source": "更便宜的 Agent 运行方案 — TechCrunch"
+      }
+    ]
+  },
   {
     "date": "2026-06-30",
     "run_time": "12:04",
