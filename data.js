@@ -1,12 +1,12 @@
 /* ============================================
    AI News Daily · 数据文件
-   由 build_news.py 自动生成于 2026-07-02 12:05
+   由 build_news.py 自动生成于 2026-07-03 12:05
    ============================================ */
 
 const TODAY_DATA = {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "run_time": "12:05",
-  "source_file": "2026-07-02_articles.json",
+  "source_file": "2026-07-03_articles.json",
   "items": [
     {
       "layer": "T1",
@@ -22,9 +22,9 @@ const TODAY_DATA = {
     },
     {
       "layer": "T1",
-      "title": "ChatGPT采用率如何扩展",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "source": "OpenAI"
+      "title": "Azure IaaS ：如何设计、构建和优化云基础架构，实现长期成本优化效率",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
+      "source": "Microsoft"
     },
     {
       "layer": "T1",
@@ -34,33 +34,21 @@ const TODAY_DATA = {
     },
     {
       "layer": "T1",
+      "title": "ChatGPT采用率如何扩展",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "source": "OpenAI"
+    },
+    {
+      "layer": "T1",
       "title": "Genebench-Pro内部",
       "url": "https://openai.com/index/genebench-pro/case-studies",
       "source": "OpenAI"
     },
     {
-      "layer": "T1.5",
-      "title": "推出有限预览版的GPT-5.6 Sol ，我们的下一代前沿型号，以及GPT-5.6 Terra ，一种高效、日常生活的…",
-      "url": "https://x.com/OpenAI/status/2070555272230384038",
-      "source": "@OpenAI"
-    },
-    {
-      "layer": "T1.5",
-      "title": "RT @ claudeai ：寓言5又回来了。",
-      "url": "https://x.com/AnthropicAI/status/2072405052518752717",
-      "source": "@AnthropicAI"
-    },
-    {
-      "layer": "T1.5",
-      "title": "随着生成式人工智能工具的不断发展，我们认为比以往任何时候都更重要的是要知道什么是人工智能生成的，什么不是。这就是为什么…",
-      "url": "https://x.com/GoogleAI/status/2072318809277390940",
-      "source": "@GoogleAI"
-    },
-    {
-      "layer": "T1.5",
-      "title": "GPT ‑ 5.6 SOL推出了迄今为止最强大的安全堆栈。\n\n我们加强了针对高风险网络活动和重复滥用的实时保护",
-      "url": "https://x.com/OpenAI/status/2070555280052826429",
-      "source": "@OpenAI"
+      "layer": "T1",
+      "title": "Microsoft Foundry中的Claude现已正式推出",
+      "url": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
+      "source": "Microsoft"
     },
     {
       "layer": "T2",
@@ -70,15 +58,27 @@ const TODAY_DATA = {
     },
     {
       "layer": "T2",
-      "title": "Anthropics Claude Science押注工作流程不是赢得科学家青睐的新模式",
-      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "title": "Anthropic推出Claude Sonnet 5 ，以更便宜的方式运行特工",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
       "source": "TechCrunch"
     },
     {
       "layer": "T2",
-      "title": "T-Mobile在诉讼中将数万台虚拟机从VMware中移除",
-      "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+      "title": "新发现的PamStealer不是典型的macOS恶意软件",
+      "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
       "source": "Ars Technica"
+    },
+    {
+      "layer": "T2",
+      "title": "Tidal不会对人工智能生成的音乐支付版税，但并没有完全禁止",
+      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "source": "The Verge"
+    },
+    {
+      "layer": "T2",
+      "title": "Openclaw终于在Android和Ios上推出",
+      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "source": "TechCrunch"
     }
   ]
 };
