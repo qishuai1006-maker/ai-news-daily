@@ -1,24 +1,24 @@
 /* ============================================
    AI News Daily · 数据文件
-   由 build_news.py 自动生成于 2026-07-03 12:05
+   由 build_news.py 自动生成于 2026-07-04 12:05
    ============================================ */
 
 const TODAY_DATA = {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "run_time": "12:05",
-  "source_file": "2026-07-03_articles.json",
+  "source_file": "2026-07-04_articles.json",
   "items": [
+    {
+      "layer": "T1",
+      "title": "Google DeepMind和A24宣布建立史无前例的研究合作伙伴关系",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "source": "DeepMind"
+    },
     {
       "layer": "T1",
       "title": "我们在2026年6月宣布的最新人工智能新闻",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
       "source": "Google"
-    },
-    {
-      "layer": "T1",
-      "title": "使用Nano Banana 2 Lite和Gemini Omni Flash开始构建",
-      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-      "source": "DeepMind"
     },
     {
       "layer": "T1",
@@ -33,22 +33,34 @@ const TODAY_DATA = {
       "source": "Google"
     },
     {
-      "layer": "T1",
-      "title": "ChatGPT采用率如何扩展",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "source": "OpenAI"
+      "layer": "T1.5",
+      "title": "推出有限预览版的GPT-5.6 Sol ，我们的下一代前沿型号，以及GPT-5.6 Terra ，一种高效、日常生活的…",
+      "url": "https://x.com/OpenAI/status/2070555272230384038",
+      "source": "@OpenAI"
     },
     {
-      "layer": "T1",
-      "title": "Genebench-Pro内部",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "source": "OpenAI"
+      "layer": "T1.5",
+      "title": "Claude Fable 5将于明天在全球范围内再次推出。在与美国政府进行了一系列富有成效的对话后，我们正在重新部署M…",
+      "url": "https://x.com/AnthropicAI/status/2072163884430229756",
+      "source": "@AnthropicAI"
     },
     {
-      "layer": "T1",
-      "title": "Microsoft Foundry中的Claude现已正式推出",
-      "url": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
-      "source": "Microsoft"
+      "layer": "T1.5",
+      "title": "随着生成式人工智能工具的不断发展，我们认为比以往任何时候都更重要的是要知道什么是人工智能生成的，什么不是。这就是为什么…",
+      "url": "https://x.com/GoogleAI/status/2072318809277390940",
+      "source": "@GoogleAI"
+    },
+    {
+      "layer": "T1.5",
+      "title": "回复[@ OpenAI] (https://x.com/OpenAI) GPT-5.6 SOL是我们迄今为止最强大的网…",
+      "url": "https://x.com/OpenAI/status/2070555278576439306",
+      "source": "@OpenAI"
+    },
+    {
+      "layer": "T1.5",
+      "title": "我们收到通知，商务部已解除对Claude Fable 5和Mythos 5的出口管制。我们将于明天开始恢复访问权限",
+      "url": "https://x.com/AnthropicAI/status/2072106151890809341",
+      "source": "@AnthropicAI"
     },
     {
       "layer": "T2",
@@ -58,32 +70,87 @@ const TODAY_DATA = {
     },
     {
       "layer": "T2",
-      "title": "Anthropic推出Claude Sonnet 5 ，以更便宜的方式运行特工",
-      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "title": "福特在Ai亏空后重新雇佣灰胡子工程师",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
       "source": "TechCrunch"
     },
     {
       "layer": "T2",
-      "title": "新发现的PamStealer不是典型的macOS恶意软件",
-      "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+      "title": "火箭报告：印度初创公司接近首次发射； SpaceX的千年里程碑",
+      "url": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
       "source": "Ars Technica"
-    },
-    {
-      "layer": "T2",
-      "title": "Tidal不会对人工智能生成的音乐支付版税，但并没有完全禁止",
-      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-      "source": "The Verge"
-    },
-    {
-      "layer": "T2",
-      "title": "Openclaw终于在Android和Ios上推出",
-      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-      "source": "TechCrunch"
     }
   ]
 };
 
 const ARCHIVES = [
+  {
+    "date": "2026-07-03",
+    "run_time": "12:03",
+    "source_file": "2026-07-03_12-03-23.md",
+    "items": [
+      {
+        "layer": "T1",
+        "title": "我们在2026年6月宣布的最新人工智能新闻",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+        "source": "Google"
+      },
+      {
+        "layer": "T1",
+        "title": "使用Nano Banana 2 Lite和Gemini Omni Flash开始构建",
+        "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+        "source": "DeepMind"
+      },
+      {
+        "layer": "T1",
+        "title": "Azure IaaS ：如何设计、构建和优化云基础架构，实现长期成本优化效率",
+        "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
+        "source": "Microsoft"
+      },
+      {
+        "layer": "T1",
+        "title": "纽约市的教育工作者和行业领袖聚集在谷歌的办公室，塑造教室人工智能的未来。",
+        "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+        "source": "Google"
+      },
+      {
+        "layer": "T1",
+        "title": "ChatGPT采用率如何扩展",
+        "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T2",
+        "title": "谷歌打造了一款出色的智能音箱，但Gemini还没有做好准备",
+        "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "Anthropic推出Claude Sonnet 5 ，以更便宜的方式运行特工",
+        "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+        "source": "TechCrunch"
+      },
+      {
+        "layer": "T2",
+        "title": "新发现的PamStealer不是典型的macOS恶意软件",
+        "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+        "source": "Ars Technica"
+      },
+      {
+        "layer": "T2",
+        "title": "Tidal不会对人工智能生成的音乐支付版税，但并没有完全禁止",
+        "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "Openclaw终于在Android和Ios上推出",
+        "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+        "source": "TechCrunch"
+      }
+    ]
+  },
   {
     "date": "2026-07-01",
     "run_time": "12:02",
@@ -1282,79 +1349,6 @@ const ARCHIVES = [
         "layer": "T2",
         "title": "那台新奇的人工智能机器",
         "url": "https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures",
-        "source": "The Verge"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-04",
-    "run_time": "20:05",
-    "source_file": "2026-06-04_20-05-31.md",
-    "items": [
-      {
-        "layer": "T1",
-        "title": "Endava如何围绕AI代理重新设计软件交付",
-        "url": "https://openai.com/index/endava-frontiers",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "为GPT-Rosalind引入新功能",
-        "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "Google搜索提升节俭和复古购物水平的5种方法",
-        "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-        "source": "Google AI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "Wasmer如何使用Codex为边缘构建Node.js运行时",
-        "url": "https://openai.com/index/wasmer",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1.5",
-        "title": "[推]该起飞了。",
-        "url": "https://x.com/OpenAI/status/2062249312839434452",
-        "source": "@OpenAI"
-      },
-      {
-        "layer": "T1.5",
-        "title": "[推]仔细看看。展示中还有更多。",
-        "url": "https://x.com/OpenAIDevs/status/2062339834526781768",
-        "source": "@OpenAI"
-      },
-      {
-        "layer": "T2",
-        "title": "亚马逊的搜索栏将发明您无法购买的人工智能生成产品",
-        "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "模型能力计划",
-        "url": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "谷歌必须让发布商选择退出人工智能搜索功能，英国规则",
-        "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "那台新奇的人工智能机器",
-        "url": "https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "微软的第一个高级推理人工智能在这里",
-        "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
         "source": "The Verge"
       }
     ]
