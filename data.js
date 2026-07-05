@@ -1,12 +1,12 @@
 /* ============================================
    AI News Daily · 数据文件
-   由 build_news.py 自动生成于 2026-07-04 12:05
+   由 build_news.py 自动生成于 2026-07-05 12:05
    ============================================ */
 
 const TODAY_DATA = {
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "run_time": "12:05",
-  "source_file": "2026-07-04_articles.json",
+  "source_file": "2026-07-05_articles.json",
   "items": [
     {
       "layer": "T1",
@@ -33,51 +33,51 @@ const TODAY_DATA = {
       "source": "Google"
     },
     {
-      "layer": "T1.5",
-      "title": "推出有限预览版的GPT-5.6 Sol ，我们的下一代前沿型号，以及GPT-5.6 Terra ，一种高效、日常生活的…",
-      "url": "https://x.com/OpenAI/status/2070555272230384038",
-      "source": "@OpenAI"
+      "layer": "T1",
+      "title": "使用Nano Banana 2 Lite和Gemini Omni Flash开始构建",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "source": "DeepMind"
     },
     {
-      "layer": "T1.5",
-      "title": "Claude Fable 5将于明天在全球范围内再次推出。在与美国政府进行了一系列富有成效的对话后，我们正在重新部署M…",
-      "url": "https://x.com/AnthropicAI/status/2072163884430229756",
-      "source": "@AnthropicAI"
+      "layer": "T1",
+      "title": "ChatGPT采用率如何扩展",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "source": "OpenAI"
     },
     {
-      "layer": "T1.5",
-      "title": "随着生成式人工智能工具的不断发展，我们认为比以往任何时候都更重要的是要知道什么是人工智能生成的，什么不是。这就是为什么…",
-      "url": "https://x.com/GoogleAI/status/2072318809277390940",
-      "source": "@GoogleAI"
+      "layer": "T1.6",
+      "title": "介绍Claude Sonnet 5\\ Anthropic",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "anthropic.com"
     },
     {
-      "layer": "T1.5",
-      "title": "回复[@ OpenAI] (https://x.com/OpenAI) GPT-5.6 SOL是我们迄今为止最强大的网…",
-      "url": "https://x.com/OpenAI/status/2070555278576439306",
-      "source": "@OpenAI"
+      "layer": "T1.6",
+      "title": "Naver推出AI选项卡背后的核心技术",
+      "url": "https://www.digitaltoday.co.kr/en/view/78099/naver-unveils-core-technology-behind-ai-tab",
+      "source": "digitaltoday.co.kr"
     },
     {
-      "layer": "T1.5",
-      "title": "我们收到通知，商务部已解除对Claude Fable 5和Mythos 5的出口管制。我们将于明天开始恢复访问权限",
-      "url": "https://x.com/AnthropicAI/status/2072106151890809341",
-      "source": "@AnthropicAI"
+      "layer": "T1.6",
+      "title": "人工智能周回顾2004年7月26日-作者： Patrick McGuinness",
+      "url": "https://patmcguinness.substack.com/p/ai-week-in-review-260704",
+      "source": "patmcguinness.substack.com"
     },
     {
       "layer": "T2",
-      "title": "谷歌打造了一款出色的智能音箱，但Gemini还没有做好准备",
-      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+      "title": "粉丝小说界正在与人工智能及其自身作战",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
       "source": "The Verge"
     },
     {
       "layer": "T2",
-      "title": "福特在Ai亏空后重新雇佣灰胡子工程师",
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "title": "微软以25亿的承诺推出自己的人工智能部署公司",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
       "source": "TechCrunch"
     },
     {
       "layer": "T2",
-      "title": "火箭报告：印度初创公司接近首次发射； SpaceX的千年里程碑",
-      "url": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
+      "title": "评论：《女超人》并不是其低票房所暗示的灾难",
+      "url": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
       "source": "Ars Technica"
     }
   ]
