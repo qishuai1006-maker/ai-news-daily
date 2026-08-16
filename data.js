@@ -1,83 +1,83 @@
 /* ============================================
    AI News Daily · 数据文件
-   由 build_news.py 自动生成于 2026-07-05 12:05
+   由 build_news.py 自动生成于 2026-08-16 12:16
    ============================================ */
 
 const TODAY_DATA = {
-  "date": "2026-07-05",
-  "run_time": "12:05",
-  "source_file": "2026-07-05_articles.json",
+  "date": "2026-08-16",
+  "run_time": "12:16",
+  "source_file": "2026-08-16_articles.json",
   "items": [
     {
       "layer": "T1",
-      "title": "Google DeepMind和A24宣布建立史无前例的研究合作伙伴关系",
-      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "title": "Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
       "source": "DeepMind"
     },
     {
       "layer": "T1",
-      "title": "我们在2026年6月宣布的最新人工智能新闻",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "source": "Google"
     },
     {
       "layer": "T1",
-      "title": "Azure IaaS ：如何设计、构建和优化云基础架构，实现长期成本优化效率",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
-      "source": "Microsoft"
-    },
-    {
-      "layer": "T1",
-      "title": "纽约市的教育工作者和行业领袖聚集在谷歌的办公室，塑造教室人工智能的未来。",
-      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-      "source": "Google"
-    },
-    {
-      "layer": "T1",
-      "title": "使用Nano Banana 2 Lite和Gemini Omni Flash开始构建",
-      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-      "source": "DeepMind"
-    },
-    {
-      "layer": "T1",
-      "title": "ChatGPT采用率如何扩展",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "title": "The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
       "source": "OpenAI"
     },
     {
-      "layer": "T1.6",
-      "title": "介绍Claude Sonnet 5\\ Anthropic",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "source": "anthropic.com"
+      "layer": "T1",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the spe…",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "source": "OpenAI"
+    },
+    {
+      "layer": "T1.5",
+      "title": "We’ve written an FAQ to answer some of the questions we've …",
+      "url": "https://x.com/AnthropicAI/status/2088343978873966687",
+      "source": "@AnthropicAI"
+    },
+    {
+      "layer": "T1.5",
+      "title": "Our most intelligent workhorse model yet for coding and age…",
+      "url": "https://x.com/GoogleAI/status/2087949042961514983",
+      "source": "@GoogleAI"
+    },
+    {
+      "layer": "T1.5",
+      "title": "Introducing Muse Glimmer, an open-weight 30B-parameter mode…",
+      "url": "https://x.com/AIatMeta/status/2086757844544811485",
+      "source": "@AIatMeta (Meta)"
     },
     {
       "layer": "T1.6",
-      "title": "Naver推出AI选项卡背后的核心技术",
-      "url": "https://www.digitaltoday.co.kr/en/view/78099/naver-unveils-core-technology-behind-ai-tab",
-      "source": "digitaltoday.co.kr"
+      "title": "Databricks Grows >80% YoY, Surpasses $7B Revenue Run-Rate, …",
+      "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-grows-80-yoy-surpasses-7b-revenue-run-rate-scales",
+      "source": "databricks.com"
     },
     {
       "layer": "T1.6",
-      "title": "人工智能周回顾2004年7月26日-作者： Patrick McGuinness",
-      "url": "https://patmcguinness.substack.com/p/ai-week-in-review-260704",
-      "source": "patmcguinness.substack.com"
+      "title": "Vals AI Raises $40 Million Series A At $400 Million Valuati…",
+      "url": "https://pulse2.com/vals-ai-raises-40-million-series-a-at-400-million-valuation-as-revenue-grows-8x/",
+      "source": "pulse2.com"
     },
     {
       "layer": "T2",
-      "title": "粉丝小说界正在与人工智能及其自身作战",
-      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "title": "newly-announced Gemini 3.7 Flash",
+      "url": "https://www.theverge.com/tech/979735/gemini-spark-is-now-powered-by-googles-upgraded-flash-model",
       "source": "The Verge"
     },
     {
       "layer": "T2",
-      "title": "微软以25亿的承诺推出自己的人工智能部署公司",
-      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "title": "Writer Introduces New Ai Model And Upgraded Harness To Cont…",
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
       "source": "TechCrunch"
     },
     {
       "layer": "T2",
-      "title": "评论：《女超人》并不是其低票房所暗示的灾难",
-      "url": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
+      "title": "VisionQuest trailer kicks off Disney's D23 fan event",
+      "url": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
       "source": "Ars Technica"
     }
   ]
@@ -85,1271 +85,1163 @@ const TODAY_DATA = {
 
 const ARCHIVES = [
   {
-    "date": "2026-07-03",
-    "run_time": "12:03",
-    "source_file": "2026-07-03_12-03-23.md",
+    "date": "2026-08-11",
+    "run_time": "12:08",
+    "source_file": "2026-08-11_12-08-01.md",
     "items": [
       {
         "layer": "T1",
-        "title": "我们在2026年6月宣布的最新人工智能新闻",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+        "title": "构建AI原生金融功能教会了我什么",
+        "url": "https://openai.com/index/building-an-ai-native-finance-function",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1",
+        "title": "使用新的人工智能工具来发展您的营销",
+        "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
         "source": "Google"
       },
       {
         "layer": "T1",
-        "title": "使用Nano Banana 2 Lite和Gemini Omni Flash开始构建",
-        "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+        "title": "WeatherNext：AI模型在气旋预报方面取得突破",
+        "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
         "source": "DeepMind"
       },
       {
         "layer": "T1",
-        "title": "Azure IaaS ：如何设计、构建和优化云基础架构，实现长期成本优化效率",
-        "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
+        "title": "OpenAI致州长Abbott关于德克萨斯州负责任的人工智能基础设施的信",
+        "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "Anthropic 要求Claude的一个未发布研究版本尝试黎曼假说",
+        "url": "https://x.com/AnthropicAI/status/2086867246073401655",
+        "source": "@AnthropicAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "人形腿还是轮式漫游车？Gemini Robotics 实验",
+        "url": "https://x.com/GoogleAI/status/2085460535932232002",
+        "source": "@GoogleAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "推出 Muse Glimmer，30B参数开放模型，针对本地代理工作流",
+        "url": "https://x.com/AIatMeta/status/2086757844544811485",
+        "source": "@AIatMeta"
+      },
+      {
+        "layer": "T1.5",
+        "title": "英国AISI发布对Anthropic模型的评测报告",
+        "url": "https://x.com/AnthropicAI/status/2084748111239344556",
+        "source": "@AnthropicAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "GoogleDeepMind 近期 Gemini 工作总结",
+        "url": "https://x.com/GoogleAI/status/2083221445375668654",
+        "source": "@GoogleAI"
+      },
+      {
+        "layer": "T2",
+        "title": "马克·扎克伯格庞大的人工智能宣言中的四个要点",
+        "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "ChatGPT 聊天机器人全面介绍",
+        "url": "https://techcrunch.com/2025/01/28/chatgpt-everything-to-know-about-the-ai-chatbot/",
+        "source": "TechCrunch"
+      },
+      {
+        "layer": "T2",
+        "title": "ARS现场直播：罗斯·斯科特讨论停止杀戮游戏运动",
+        "url": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
+        "source": "Ars Technica"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "run_time": "12:04",
+    "source_file": "2026-08-10_12-04-13.md",
+    "items": [
+      {
+        "layer": "T1",
+        "title": "应对关键网络能力的下一个前沿",
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1",
+        "title": "WeatherNext：AI模型在气旋预报方面取得突破",
+        "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+        "source": "DeepMind"
+      },
+      {
+        "layer": "T1",
+        "title": "微软在2026年Gartner Magic Quadrant AI增强代码现代化工具中获评领导者",
+        "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
         "source": "Microsoft"
       },
       {
         "layer": "T1",
-        "title": "纽约市的教育工作者和行业领袖聚集在谷歌的办公室，塑造教室人工智能的未来。",
-        "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-        "source": "Google"
-      },
-      {
-        "layer": "T1",
-        "title": "ChatGPT采用率如何扩展",
-        "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+        "title": "HSP GRUPPE如何构建税务咨询的AI功能",
+        "url": "https://openai.com/index/hsp-gruppe",
         "source": "OpenAI"
       },
       {
+        "layer": "T1.5",
+        "title": "GPT-5.6 SOL 更新：让每个人都能在 ChatGPT 中访问更好的智能",
+        "url": "https://x.com/OpenAI/status/2085434712429052386",
+        "source": "@OpenAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "英国 AISI 发布 Anthropic 模型安全评估报告",
+        "url": "https://x.com/AnthropicAI/status/2084748111239344556",
+        "source": "@AnthropicAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "Gemini Robotics：人形腿还是轮式漫游车？机器人应该煎蛋吗？",
+        "url": "https://x.com/GoogleAI/status/2085460535932232002",
+        "source": "@GoogleAI"
+      },
+      {
+        "layer": "T1.6",
+        "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开放式全双工语音转语音模型，450ms 延迟",
+        "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling/",
+        "source": "marktechpost.com"
+      },
+      {
+        "layer": "T1.6",
+        "title": "xAI Imagine Image 2.0 在 Arena 基准测试中落后于 OpenAI GPT-Image-2",
+        "url": "https://the-decoder.com/xais-imagine-image-2-0-lands-just-behind-openais-gpt-image-2-in-arena-benchmarks/",
+        "source": "the-decoder.com"
+      },
+      {
         "layer": "T2",
-        "title": "谷歌打造了一款出色的智能音箱，但Gemini还没有做好准备",
-        "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+        "title": "Hank Green 承认过度依赖 AI 做研究，YouTube 频道或需暂停",
+        "url": "https://www.theverge.com/tech/973893/hank-green-says-his-youtube-channel-may-need-to-pause-after-admitting-to-relying-on-ai-for-research",
         "source": "The Verge"
       },
       {
         "layer": "T2",
-        "title": "Anthropic推出Claude Sonnet 5 ，以更便宜的方式运行特工",
-        "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+        "title": "Z世代约会App Ditto 抛弃滑动，转向AI匹配",
+        "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
         "source": "TechCrunch"
       },
       {
         "layer": "T2",
-        "title": "新发现的PamStealer不是典型的macOS恶意软件",
-        "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+        "title": "多巴火山喷发似乎并未导致人类物种几近灭绝",
+        "url": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
         "source": "Ars Technica"
-      },
-      {
-        "layer": "T2",
-        "title": "Tidal不会对人工智能生成的音乐支付版税，但并没有完全禁止",
-        "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Openclaw终于在Android和Ios上推出",
-        "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-        "source": "TechCrunch"
       }
     ]
   },
   {
-    "date": "2026-07-01",
-    "run_time": "12:02",
-    "source_file": "2026-07-01_12-02-35.md",
+    "date": "2026-08-08",
+    "run_time": "12:05",
+    "source_file": "2026-08-08_12-05-29.md",
     "items": [
       {
         "layer": "T1",
-        "title": "Nano Banana 2 Lite + Gemini Omni Flash",
+        "title": "应对关键网络能力的下一个前沿",
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1",
+        "title": "WeatherNext：AI模型在气旋预报方面取得突破",
+        "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+        "source": "DeepMind"
+      },
+      {
+        "layer": "T1",
+        "title": "微软在2026年Gartner Magic Quadrant AI增强代码现代化工具中获评领导者",
+        "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
+        "source": "Microsoft"
+      },
+      {
+        "layer": "T1",
+        "title": "HSP GRUPPE如何构建税务咨询的AI功能",
+        "url": "https://openai.com/index/hsp-gruppe",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "ChatGPT开放更好智能访问",
+        "url": "https://x.com/OpenAI/status/2085434712429052386",
+        "source": "GPT-5.6 SOL现已上线** — @OpenAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "英国AISI发布Anthropic安全评估报告",
+        "url": "https://x.com/AnthropicAI/status/2084748111239344556",
+        "source": "@AnthropicAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "GoogleDeepMind：人形腿还是轮式漫游车？Gemini Robotics探索",
+        "url": "https://x.com/GoogleAI/status/2085460535932232002",
+        "source": "@GoogleAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "OpenAI新公告",
+        "url": "https://x.com/OpenAI/status/2085865635586912359",
+        "source": "@OpenAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "Claude模型网络安全事件审查：发现三起异常行为",
+        "url": "https://x.com/AnthropicAI/status/2082965101083320543",
+        "source": "@AnthropicAI"
+      },
+      {
+        "layer": "T2",
+        "title": "Hank Green承认过度依赖AI做研究，YouTube频道可能需要暂停",
+        "url": "https://www.theverge.com/tech/973893/hank-green-says-his-youtube-channel-may-need-to-pause-after-admitting-to-relying-on-ai-for-research",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "谷歌地图增加代理功能：订餐和酒店预订",
+        "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+        "source": "TechCrunch"
+      },
+      {
+        "layer": "T2",
+        "title": "欧洲免费卫星服务让追踪野火更加容易",
+        "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+        "source": "Ars Technica"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "run_time": "12:05",
+    "source_file": "2026-08-06_12-05-01.md",
+    "items": [
+      {
+        "layer": "T1",
+        "title": "涉及 OpenAI 模型的第三方网络评估",
+        "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1",
+        "title": "2026 年 7 月最新 AI 新闻汇总",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+        "source": "Google"
+      },
+      {
+        "layer": "T1",
+        "title": "Gemini Robotics ER 2：视频理解、任务编排与多机器人协作",
+        "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+        "source": "DeepMind"
+      },
+      {
+        "layer": "T1",
+        "title": "用 ChatGPT Work 和 Codex 学习与教学的新方法",
+        "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1",
+        "title": "353,000 人的 Vibe Coding 课程回顾",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+        "source": "Google"
+      },
+      {
+        "layer": "T1.5",
+        "title": "OpenAI 降价：GPT-5.6 Lunar 在成本效益、能力和速度上推进前沿",
+        "url": "https://x.com/OpenAI/status/2082878156483219672",
+        "source": "@OpenAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "Anthropic × 英国 AISI 安全合作",
+        "url": "https://x.com/AnthropicAI/status/2084748111239344556",
+        "source": "@AnthropicAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "Google AI 近期动态回顾 ICYMI",
+        "url": "https://x.com/GoogleAI/status/2083221445375668654",
+        "source": "@GoogleAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "OpenAI 外部网络安全评估两起新事件",
+        "url": "https://x.com/OpenAI/status/2084747580693426555",
+        "source": "@OpenAI"
+      },
+      {
+        "layer": "T2",
+        "title": "谷歌宣布重大 AI 领导层调整（Demis Hassabis）",
+        "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "Designarena 创作者融资 790 万美元，为 AI 模型注入\"品味\"",
+        "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+        "source": "TechCrunch"
+      },
+      {
+        "layer": "T2",
+        "title": "数千台服务器可被利用故障主板控制器开后门",
+        "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+        "source": "Ars Technica"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "run_time": "12:05",
+    "source_file": "2026-08-05_12-05-21.md",
+    "items": [
+      {
+        "layer": "T1",
+        "title": "涉及OpenAI模型的第三方网络评估",
+        "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1",
+        "title": "我们在2026年7月宣布的最新人工智能新闻",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+        "source": "Google"
+      },
+      {
+        "layer": "T1",
+        "title": "Gemini Robotics ER 2：通过视频理解、任务编排和多机器人协作为机器人技术提供动力",
+        "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+        "source": "DeepMind"
+      },
+      {
+        "layer": "T1",
+        "title": "使用ChatGPT Work和Codex学习和教学的新方法",
+        "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1",
+        "title": "在我们353,000人的氛围编码课程中",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+        "source": "Google"
+      },
+      {
+        "layer": "T1.5",
+        "title": "我们致力于在成本效益、能力和速度方面推动模式前沿。从今天开始，我们将降低GPT-5.6 Lunar…",
+        "url": "https://x.com/OpenAI/status/2082878156483219672",
+        "source": "@OpenAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "英国的 @AISecurityInst…",
+        "url": "https://x.com/AnthropicAI/status/2084748111239344556",
+        "source": "@AnthropicAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "忙碌了几周！ICYMI，这是总结 ⬇️",
+        "url": "https://x.com/GoogleAI/status/2083221445375668654",
+        "source": "@GoogleAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "我们将详细介绍由独立评估合作伙伴进行的外部网络评估期间发生的两起新事件",
+        "url": "https://x.com/OpenAI/status/2084747580693426555",
+        "source": "@OpenAI"
+      },
+      {
+        "layer": "T2",
+        "title": "OpenAI网红之旅如何适得其反",
+        "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "Claude Opus 5在被要求运行自动售货机时变得彻头彻尾的无情",
+        "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+        "source": "TechCrunch"
+      },
+      {
+        "layer": "T2",
+        "title": "参议员要求打击野火\"预测市场\"",
+        "url": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
+        "source": "Ars Technica"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-04",
+    "run_time": "12:14",
+    "source_file": "2026-08-04_12-14-04.md",
+    "items": [
+      {
+        "layer": "T1",
+        "title": "我们如何在六个月内为响应式语音人工智能构建实时系统",
+        "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1",
+        "title": "Gemini Robotics ER 2 ：通过视频理解、任务编排和多机器人协作为机器人技术提…",
+        "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+        "source": "DeepMind"
+      },
+      {
+        "layer": "T1",
+        "title": "Gemini API托管代理： 3.6 Flash、挂钩等",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+        "source": "Google"
+      },
+      {
+        "layer": "T1",
+        "title": "Circles通过OpenAI技术为电信运营商个性化提供支持",
+        "url": "https://openai.com/index/circles",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "我们致力于在成本效益、能力和速度方面推动模式前沿。从今天开始，我们将降低GPT-5.6 Lun…",
+        "url": "https://x.com/OpenAI/status/2082878156483219672",
+        "source": "@OpenAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "在对我们的网络安全评估进行审查时，我们发现了三起事件，其中Claude模型从内部或在",
+        "url": "https://x.com/AnthropicAI/status/2082965101083320543",
+        "source": "@AnthropicAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "忙碌了几周！ ICYMI ，这是回顾⬇️—来自[@ GoogleDeepMind] (http…",
+        "url": "https://x.com/GoogleAI/status/2083221445375668654",
+        "source": "@GoogleAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "GPT-Live可以边听边说话。为了让ChatGPT的规模感觉很自然，我们从客户端到模型重建了…",
+        "url": "https://x.com/OpenAI/status/2084378415818579975",
+        "source": "@OpenAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "我们支持这份请愿书，请愿书由我们的首席执行官、几位联合创始人和高级员工签署。我们自己关于递归自…",
+        "url": "https://x.com/AnthropicAI/status/2082228994653696371",
+        "source": "@AnthropicAI"
+      },
+      {
+        "layer": "T2",
+        "title": "谷歌地球的人工智能深度伪造工具只持续了一天",
+        "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "针对Openai的苹果商业秘密诉讼中最疯狂的指控",
+        "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+        "source": "TechCrunch"
+      },
+      {
+        "layer": "T2",
+        "title": "美国公司的人工智能让乌克兰廉价的神风无人机自行追踪目标",
+        "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+        "source": "Ars Technica"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-01",
+    "run_time": "12:09",
+    "source_file": "2026-08-01_12-09-37.md",
+    "items": [
+      {
+        "layer": "T1",
+        "title": "在整个欧洲推进负责任的人工智能",
+        "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1",
+        "title": "Gemini Robotics ER 2 ：通过视频理解、任务编排和多机器人协作为机器人技术提…",
+        "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+        "source": "DeepMind"
+      },
+      {
+        "layer": "T1",
+        "title": "Gemini API托管代理： 3.6 Flash、挂钩等",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+        "source": "Google"
+      },
+      {
+        "layer": "T1",
+        "title": "构建丰富的智力",
+        "url": "https://openai.com/index/building-abundant-intelligence",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1",
+        "title": "我们在Google Flow Music中推出了Lyria 3.5 ，在音乐性、歌词、人声和创…",
+        "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+        "source": "DeepMind"
+      },
+      {
+        "layer": "T1.5",
+        "title": "我们致力于在成本效益、能力和速度方面推动模式前沿。从今天开始，我们将降低GPT-5.6 L…",
+        "url": "https://x.com/OpenAI/status/2082878156483219672",
+        "source": "@OpenAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "一个大脑。适用于任何机器人。 🤖 我们将推出Gemini Robotics 2 ：我们的下一…",
+        "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+        "source": "@GoogleDeepMind"
+      },
+      {
+        "layer": "T1.5",
+        "title": "隆重推出全新Le Chat ：您在生活和工作中的终极AI助手！现在可以在网络和移动设备上直播了！",
+        "url": "https://x.com/MistralAI/status/1887517520040448510",
+        "source": "@MistralAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "https://t.co/bqoF4ftCpT",
+        "url": "https://x.com/OpenAI/status/2082879614532370847",
+        "source": "@OpenAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "RT @ bousmalis ：以下是@ GoogleDeepMind在FR3 Duo上首次展…",
+        "url": "https://x.com/GoogleDeepMind/status/2083139795128054208",
+        "source": "@GoogleDeepMind"
+      },
+      {
+        "layer": "T2",
+        "title": "谷歌地球的人工智能深度伪造工具只持续了一天",
+        "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "不仅仅是尼安德特人：非洲的幽灵血统在我们的DNA上留下了痕迹",
+        "url": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
+        "source": "Ars Technica"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-31",
+    "run_time": "12:09",
+    "source_file": "2026-07-31_12-09-29.md",
+    "items": [
+      {
+        "layer": "T1",
+        "title": "Gemini Robotics ER 2：通过视频理解、任务编排和多机器人协作为机器人技术提升",
         "url": "",
         "source": "DeepMind"
       },
       {
         "layer": "T1",
-        "title": "ChatGPT 采用率扩展",
+        "title": "借助 GPT-5.6 推进性价比前沿",
         "url": "",
         "source": "OpenAI"
       },
       {
         "layer": "T1",
-        "title": "英国 AI 开拓者之国",
+        "title": "Gemini API 托管代理：3.6 Flash、挂钩等",
         "url": "",
         "source": "Google"
       },
       {
         "layer": "T1",
-        "title": "GeneBench-Pro 简介",
+        "title": "Avatarin 如何使用 GPT-Realtime 构建全天候零售代理",
         "url": "",
         "source": "OpenAI"
       },
       {
+        "layer": "T1",
+        "title": "Google Flow Music 推出 Lyria 3.5，在音乐性、歌词、人声和创作控制方面取得进展",
+        "url": "",
+        "source": "DeepMind"
+      },
+      {
+        "layer": "T1.5",
+        "title": "GPT-5.6 降低定价",
+        "url": "",
+        "source": "我们致力于在成本效益、能力和速度方面推动模式前沿 — @OpenAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "Anthropic 网络安全审查发现三起 Claude 模型相关事件",
+        "url": "",
+        "source": "@AnthropicAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "Google 推出全新可视化体验：想象 100 年前的城市或新的篮球场",
+        "url": "",
+        "source": "@GoogleAI"
+      },
+      {
         "layer": "T2",
-        "title": "Tidal 不为 AI 音乐付版税但未完全禁止",
+        "title": "蒂姆·库克暗示 iCloud Plus 会员等级适用于 AI 高级用户",
         "url": "",
         "source": "The Verge"
       },
       {
         "layer": "T2",
-        "title": "Facebook Creator Studio 恢复为 AI 配套应用",
-        "url": "",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "最强创始人用 AI 反击癌症",
+        "title": "Thinking Machines 联合创始人 Lilian Weng 因健康原因离开公司后加入 OpenAI",
         "url": "",
         "source": "TechCrunch"
       },
       {
         "layer": "T2",
-        "title": "Anthropic 推出 Claude Sonnet 5",
+        "title": "量子计算机的性能优于经典计算机，其结果值得信赖",
         "url": "",
-        "source": "更便宜的 Agent 运行方案 — TechCrunch"
+        "source": "Ars Technica"
       }
     ]
   },
   {
-    "date": "2026-06-30",
-    "run_time": "12:04",
-    "source_file": "2026-06-30_12-04-03.md",
+    "date": "2026-07-30",
+    "run_time": "12:10",
+    "source_file": "2026-07-30_12-10-46.md",
     "items": [
       {
         "layer": "T1",
-        "title": "向人工智能专家提问：全栈到底是什么？",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-        "source": "Google AI Blog"
+        "title": "DeepMind",
+        "url": "",
+        "source": "Lyria 3.5 在 Google Flow Music 中发布，音乐性/歌词/人声/创意控制全面升级 → [link](https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/)"
       },
       {
         "layer": "T1",
-        "title": "映射欧洲的人工智能劳动力机会",
-        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-        "source": "OpenAI Blog"
+        "title": "OpenAI",
+        "url": "",
+        "source": "仅改两个设置就让 ARC-AGI-3 分数翻了三倍 → [link](https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores)"
       },
       {
         "layer": "T1",
-        "title": "惠普公司与OpenAI建立Frontier战略合作伙伴关系",
-        "url": "https://openai.com/index/hp-frontier-partnership",
-        "source": "OpenAI Blog"
+        "title": "Google",
+        "url": "",
+        "source": "Gemini API 托管代理扩展：3.6 Flash、Hooks 等 → [link](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/)"
       },
       {
         "layer": "T1",
-        "title": "性能红利：直接在Visual Studio Code中优化Azure上的PostgreSQL",
-        "url": "https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/",
-        "source": "Microsoft AI"
+        "title": "OpenAI",
+        "url": "",
+        "source": "ChatGPT 助力学术研究人员加速科学发现 → [link](https://openai.com/index/chatgpt-for-academic-researchers)"
+      },
+      {
+        "layer": "T1",
+        "title": "Google",
+        "url": "",
+        "source": "搜索 AI 模式在真实场景中的 5 种用法 → [link](https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/)"
       },
       {
         "layer": "T1.5",
-        "title": "[推]推出我们的下一代前沿型号GPT-5.6 SOL的有限预览版，以及高效、日常生活的平衡型号GPT-5.6 TERRA",
-        "url": "https://x.com/OpenAI/status/2070555272230384038",
-        "source": "@OpenAI"
+        "title": "@OpenAI",
+        "url": "",
+        "source": "部署后应用 GPT-5.6 SOL，通过提升自身运行效率推进效率前沿 → [link](https://x.com/OpenAI/status/2082577277246972300)"
       },
       {
         "layer": "T1.5",
-        "title": "[推] GPT-5.6 SOL推出了迄今为止最强大的安全堆栈。我们加强了针对高风险网络活动和重复滥用的实时保护",
-        "url": "https://x.com/OpenAI/status/2070555280052826429",
-        "source": "@OpenAI"
+        "title": "@AnthropicAI",
+        "url": "",
+        "source": "签署请愿书（CEO 及联合创始人），关于递归自我改进 → [link](https://x.com/AnthropicAI/status/2082228994653696371)"
+      },
+      {
+        "layer": "T1.5",
+        "title": "@GoogleAI",
+        "url": "",
+        "source": "[图片相关推文] → [link](https://x.com/GoogleAI/status/2082466336228122711)"
+      },
+      {
+        "layer": "T1.5",
+        "title": "@OpenAI",
+        "url": "",
+        "source": "EVALS 实验提醒：模型评测很少孤立测量，还有一系列隐藏因素 → [link](https://x.com/OpenAI/status/2082616643394703682)"
       },
       {
         "layer": "T2",
-        "title": "Tidal不会对人工智能生成的音乐支付版税，但并未完全禁止",
-        "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-        "source": "The Verge"
+        "title": "The Verge",
+        "url": "",
+        "source": "扎克伯格计划大举进军个人 AI → [link](https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents)"
       },
       {
         "layer": "T2",
-        "title": "Facebook的Creator Studio已恢复为人工智能配套应用",
-        "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-        "source": "The Verge"
+        "title": "TechCrunch",
+        "url": "",
+        "source": "AI 下一步：从 SaaS 洗牌到 Agent 安全缺口 → [link](https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/)"
       },
       {
         "layer": "T2",
-        "title": "Figma现在拥有AI动态图形和着色器工具",
-        "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Cursor现在有一个移动应用程序，可以在旅途中指导您的编码代理",
-        "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-        "source": "TechCrunch"
-      },
-      {
-        "layer": "T2",
-        "title": "Arena每个人都在使用的AI排行榜现在是一个1亿的业务",
-        "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-        "source": "TechCrunch"
+        "title": "Ars Technica",
+        "url": "",
+        "source": "第三轮 PQC 算法候选被攻破，隐藏多年的加密弱点曝光 → [link](https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/)"
       }
     ]
   },
   {
-    "date": "2026-06-29",
-    "run_time": "12:01",
-    "source_file": "2026-06-29_12-01-47.md",
-    "items": [
-      {
-        "layer": "T1",
-        "title": "惠普公司与 OpenAI 建立 Frontier 战略合作伙伴关系",
-        "url": "https://openai.com/index/hp-frontier-partnership",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "性能红利：直接在 Visual Studio Code 中优化 Azure 上的 PostgreSQL",
-        "url": "https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/",
-        "source": "Microsoft AI"
-      },
-      {
-        "layer": "T1",
-        "title": "预览 GPT-5.6 SOL：下一代型号",
-        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "我们最新的 Google 财经升级，包括全新应用",
-        "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-        "source": "Google AI Blog"
-      },
-      {
-        "layer": "T1.5",
-        "title": "[推] 推出我们的下一代前沿型号 GPT-5.6 SOL 的有限预览版，以及高效、日常生活的平衡型号 GPT-5.6 T",
-        "url": "https://x.com/OpenAI/status/2070555272230384038",
-        "source": "@OpenAI"
-      },
-      {
-        "layer": "T1.5",
-        "title": "[推] GPT-5.6 SOL 推出了迄今为止最强大的安全堆栈。我们加强了针对高风险网络活动和重复滥用的实时保护",
-        "url": "https://x.com/OpenAI/status/2070555280052826429",
-        "source": "@OpenAI"
-      },
-      {
-        "layer": "T2",
-        "title": "Facebook 的 Creator Studio 已恢复为人工智能配套应用",
-        "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Figma 现在拥有 AI 动态图形和着色器工具",
-        "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Fitbit Air 采用更智能的方法来处理 AI 健康垃圾箱火灾",
-        "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "索尼的 AI 相机助手和看起来一样糟糕",
-        "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Facebook 为创作者推出 AI Companion 应用程序",
-        "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-        "source": "TechCrunch"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-28",
+    "date": "2026-07-28",
     "run_time": "12:06",
-    "source_file": "2026-06-28_12-06-18.md",
+    "source_file": "2026-07-28_12-06-13.md",
     "items": [
       {
         "layer": "T1",
-        "title": "性能红利：直接在 Visual Studio Code 中优化 Azure 上的 PostgreSQL",
-        "url": "",
-        "source": "Microsoft AI"
+        "title": "人工智能如何扩展人们在工作中的工作",
+        "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+        "source": "OpenAI"
       },
       {
         "layer": "T1",
-        "title": "预览 GPT-5.6 SOL：下一代型号",
-        "url": "",
-        "source": "OpenAI Blog"
+        "title": "AT&T和微软通过微软Foundry和AMD扩展万亿代币工作负载",
+        "url": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
+        "source": "Microsoft"
       },
       {
         "layer": "T1",
-        "title": "Google 财经升级 + 全新应用",
-        "url": "",
-        "source": "Google AI Blog"
+        "title": "来自Galaxy Unpacked 2026的Google更新",
+        "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+        "source": "Google"
       },
       {
         "layer": "T1.5",
-        "title": "OpenAI 推出 GPT-5.6 SOL 有限预览 + GPT-5.6 TERRA 日常平衡版",
-        "url": "",
+        "title": "ChatGPT Voice现已在桌面应用中。只需使用您的语音，即可控制您的计算机并指导在ChatGPT中的操作",
+        "url": "https://x.com/OpenAI/status/2080378182469857576",
         "source": "@OpenAI"
       },
       {
         "layer": "T1.5",
-        "title": "GPT-5.6 SOL 网络安全性能前沿",
-        "url": "",
+        "title": "关于我们在开放式配重模型上的立场，有很多猜测。我们已在此处完整概述了我们的观点",
+        "url": "https://x.com/AnthropicAI/status/2081864750296658008",
+        "source": "@AnthropicAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "今天，我们引入了两个新模型，在效率和质量之间取得平衡，使您能够构建生产AI代理",
+        "url": "https://x.com/GoogleAI/status/2079589742535118985",
+        "source": "@GoogleAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "RT @gdb：上周，我们为企业提供了ChatGPT Work。这是一个很棒的产品",
+        "url": "https://x.com/OpenAI/status/2081882249839157545",
         "source": "@OpenAI"
       },
       {
+        "layer": "T1.5",
+        "title": "RT @claudeai：介绍Claude Opus 5。这是一个深思熟虑和积极主动的…",
+        "url": "https://x.com/AnthropicAI/status/2080699608917750032",
+        "source": "@AnthropicAI"
+      },
+      {
         "layer": "T2",
-        "title": "Facebook Creator Studio 重新上线为 AI 配套应用",
-        "url": "",
+        "title": "神经手写特征",
+        "url": "https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer",
         "source": "The Verge"
       },
       {
         "layer": "T2",
-        "title": "Figma 推出 AI 动态图形和着色器工具",
-        "url": "",
-        "source": "The Verge"
+        "title": "微软推出首个网络模型和新的代理网络安全系统",
+        "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+        "source": "TechCrunch"
       },
       {
         "layer": "T2",
-        "title": "Fitbit Air 智能处理 AI 健康教练",
-        "url": "",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "索尼 AI 相机助手翻车",
-        "url": "",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Meta 争议性 AI 员工培训计划",
-        "url": "",
-        "source": "The Verge"
+        "title": "微软推出人工智能安全工具，称其表现优于竞争对手的平台",
+        "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+        "source": "Ars Technica"
       }
     ]
   },
   {
-    "date": "2026-06-27",
-    "run_time": "12:02",
-    "source_file": "2026-06-27_12-02-50.md",
+    "date": "2026-07-26",
+    "run_time": "12:07",
+    "source_file": "2026-07-26_12-07-47.md",
     "items": [
       {
         "layer": "T1",
-        "title": "性能红利：直接在Visual Studio Code中优化Azure上的PostgreSQL",
-        "url": "https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/",
-        "source": "Microsoft AI"
+        "title": "AT&T 和微软通过 Microsoft Foundry 和 AMD 扩展万亿 token 工作负载",
+        "url": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
+        "source": "Microsoft"
       },
       {
         "layer": "T1",
-        "title": "预览GPT-5.6 SOL ：下一代型号",
-        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-        "source": "OpenAI Blog"
+        "title": "ChatGPT 中上线 Health 功能",
+        "url": "https://openai.com/index/health-in-chatgpt",
+        "source": "OpenAI"
       },
       {
         "layer": "T1",
-        "title": "我们最新的Google财经升级，包括全新应用",
-        "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-        "source": "Google AI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "客服代表如何转变工作方式",
-        "url": "https://openai.com/index/how-agents-are-transforming-work",
-        "source": "OpenAI Blog"
+        "title": "加快科学发现的前沿：谷歌对 Genesis 使命的 $4000 万承诺",
+        "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+        "source": "DeepMind"
       },
       {
         "layer": "T1.5",
-        "title": "[推]推出我们的下一代前沿型号GPT-5.6 SOL的有限预览版，以及高效、日常生活的平衡型号GPT-5.6 TERRA",
-        "url": "https://x.com/OpenAI/status/2070555272230384038",
+        "title": "ChatGPT Voice 现已在桌面应用中可用",
+        "url": "https://x.com/OpenAI/status/2080378182469857576",
+        "source": "仅用语音即可控制计算机并与 ChatGPT 交互 — @OpenAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "为研究人员提供最高 $50,000 的 Claude 使用信用额度，加速罕见疾病治愈研究",
+        "url": "https://x.com/AnthropicAI/status/2079256626771665098",
+        "source": "@AnthropicAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "发布两个新模型，在效率和质量之间取得平衡，用于构建生产级 AI 代理",
+        "url": "https://x.com/GoogleAI/status/2079589742535118985",
+        "source": "@GoogleAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "ChatGPT 中的 Health 开始向美国用户推出，可安全连接 Apple Health",
+        "url": "https://x.com/OpenAI/status/2080339982288568709",
         "source": "@OpenAI"
       },
       {
         "layer": "T1.5",
-        "title": "[推]回复[@ OpenAI] (https://x.com/OpenAI) GPT-5.6 SOL是我们迄今为止最强大",
-        "url": "https://x.com/OpenAI/status/2070555278576439306",
-        "source": "@OpenAI"
+        "title": "Anthropic 新研究：2026 年夏季的 agentic misalignment，勒索实验一年后发现四种新的危险",
+        "url": "https://x.com/AnthropicAI/status/2077452646303006927",
+        "source": "@AnthropicAI"
       },
       {
         "layer": "T2",
-        "title": "Facebook的Creator Studio已恢复为人工智能配套应用",
-        "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+        "title": "Meta 正让其 AI 聊天机器人更\"助手化\"",
+        "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
         "source": "The Verge"
       },
       {
         "layer": "T2",
-        "title": "Figma现在拥有AI动态图形和着色器工具",
-        "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-        "source": "The Verge"
+        "title": "Reid Hoffman 与 Mark Pincus 联合创立的 AI 实验室公司 Prentis 正洽谈融资 $1 亿",
+        "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+        "source": "TechCrunch"
       },
       {
         "layer": "T2",
-        "title": "Fitbit Air采用更智能的方法来处理AI健康垃圾箱火灾",
-        "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "索尼的AI相机助手和看起来一样糟糕",
-        "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Meta备受争议的人工智能培训计划",
-        "url": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
-        "source": "The Verge"
+        "title": "SDCC 预告片首次揭示《银翼杀手 2099》真容",
+        "url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+        "source": "Ars Technica"
       }
     ]
   },
   {
-    "date": "2026-06-26",
-    "run_time": "12:02",
-    "source_file": "2026-06-26_12-02-32.md",
-    "items": [
-      {
-        "layer": "T1",
-        "title": "我们最新的Google财经升级，包括全新应用",
-        "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-        "source": "Google AI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "客服代表如何转变工作方式",
-        "url": "https://openai.com/index/how-agents-are-transforming-work",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "在Gemini 3.5 Flash中引入计算机使用",
-        "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-        "source": "DeepMind Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "OpenAI和Broadcom推出LLM优化推理芯片",
-        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1.5",
-        "title": "[推] 我们与波士顿儿童医院和哈佛大学的研究人员一起在NEJM AI上发表了一项研究，展示了o3 Deep Resear",
-        "url": "https://x.com/OpenAI/status/2067625110199247353",
-        "source": "@OpenAI"
-      },
-      {
-        "layer": "T1.5",
-        "title": "[推] OpenAI的工作正在由每个部门的代理人进行转变。在整个公司，人们都在使用Codex来完成更复杂的工作",
-        "url": "https://x.com/OpenAI/status/2070196105745518913",
-        "source": "@OpenAI"
-      },
-      {
-        "layer": "T2",
-        "title": "Facebook的Creator Studio已恢复为人工智能配套应用",
-        "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Figma现在拥有AI动态图形和着色器工具",
-        "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Fitbit Air采用更智能的方法来处理AI健康垃圾箱火灾",
-        "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "索尼的AI相机助手和看起来一样糟糕",
-        "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Meta备受争议的人工智能培训计划",
-        "url": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
-        "source": "The Verge"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-25",
-    "run_time": "12:02",
-    "source_file": "2026-06-25_12-02-47.md",
-    "items": [
-      {
-        "layer": "T1",
-        "title": "在Gemini 3.5 Flash中引入计算机使用",
-        "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-        "source": "DeepMind Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "OpenAI和Broadcom推出LLM优化推理芯片",
-        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "GPT-5如何帮助免疫学家Derya Unutmaz解开一个3年前的谜团",
-        "url": "https://openai.com/index/gpt-5-immunology-mystery",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "帮助构建高级AI的共享标准",
-        "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1.5",
-        "title": "[推]我们与波士顿儿童医院和哈佛大学的研究人员一起在NEJM AI上发表了一项研究，展示了o3 Deep Researc",
-        "url": "https://x.com/OpenAI/status/2067625110199247353",
-        "source": "@OpenAI"
-      },
-      {
-        "layer": "T1.5",
-        "title": "[推]我们为您提供了新版本的GPT-5.5 Instant ，交谈起来更有趣。我们最常用的模型现在更能理解",
-        "url": "https://x.com/OpenAI/status/2069843083701915755",
-        "source": "@OpenAI"
-      },
-      {
-        "layer": "T2",
-        "title": "Figma现在拥有AI动态图形和着色器工具",
-        "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Fitbit Air采用更智能的方法来处理AI健康垃圾箱火灾",
-        "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "索尼的AI相机助手和看起来一样糟糕",
-        "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Meta备受争议的人工智能培训计划",
-        "url": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "英伟达表示，其人工智能数据中心设计运行更热，耗水量更少",
-        "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
-        "source": "The Verge"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-24",
-    "run_time": "12:02",
-    "source_file": "2026-06-24_12-02-16.md",
-    "items": [
-      {
-        "layer": "T1",
-        "title": "GPT-5如何帮助免疫学家Derya Unutmaz解开一个3年前的谜团",
-        "url": "https://openai.com/index/gpt-5-immunology-mystery",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "帮助构建高级AI的共享标准",
-        "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "Omio如何打造对话式旅行的未来",
-        "url": "https://openai.com/index/omio",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "黎明：确保全球每个组织安全的工具",
-        "url": "https://openai.com/index/daybreak-securing-the-world",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1.5",
-        "title": "[推]我们与波士顿儿童医院和哈佛大学的研究人员一起在NEJM AI上发表了一项研究，展示了o3 Deep Researc",
-        "url": "https://x.com/OpenAI/status/2067625110199247353",
-        "source": "@OpenAI"
-      },
-      {
-        "layer": "T2",
-        "title": "Fitbit Air采用更智能的方法来处理AI健康垃圾箱火灾",
-        "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "索尼的AI相机助手和看起来一样糟糕",
-        "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Meta备受争议的人工智能培训计划",
-        "url": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "英伟达表示，其人工智能数据中心设计运行更热，耗水量更少",
-        "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Adobe重新设计的人工智能工作室会记住您的作品",
-        "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
-        "source": "The Verge"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-22",
+    "date": "2026-07-25",
     "run_time": "12:04",
-    "source_file": "2026-06-22_12-04-26.md",
+    "source_file": "2026-07-25_12-04-57.md",
     "items": [
       {
         "layer": "T1",
-        "title": "三星电子为员工带来ChatGPT和Codex",
-        "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "为企业提供新的使用情况分析和更新的支出控制",
-        "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "改善ChatGPT中的健康智能",
-        "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "使用人工智能帮助医生诊断影响儿童的罕见遗传疾病",
-        "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T2",
-        "title": "Adobe重新设计的人工智能工作室会记住您的作品",
-        "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Photoshop和Premiere现在有AI助手",
-        "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "苹果2027传闻：配备人工智能摄像头的AirPods和第二款折叠iPhone",
-        "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Facebook的新AI模式搜索从公开帖子中获取信息",
-        "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "一般直觉在谈判中，以约2B的估值筹集3亿英镑",
-        "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-        "source": "TechCrunch"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-21",
-    "run_time": "12:04",
-    "source_file": "2026-06-21_12-04-46.md",
-    "items": [
-      {
-        "layer": "T1",
-        "title": "为企业提供新的使用情况分析和更新的支出控制",
-        "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "改善ChatGPT中的健康智能",
-        "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "使用人工智能帮助医生诊断影响儿童的罕见遗传疾病",
-        "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "新的研究表明，我们的医疗人工智能 AMIE 可以帮助管理健康状况",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-        "source": "Google AI Blog"
-      },
-      {
-        "layer": "T2",
-        "title": "Adobe 重新设计的人工智能工作室会记住您的作品",
-        "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Photoshop 和 Premiere 现在有 AI 助手",
-        "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "苹果 2027 传闻：配备人工智能摄像头的 AirPods 和第二款折叠 iPhone",
-        "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Facebook 的新 AI 模式搜索从公开帖子中获取信息",
-        "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "诺贝尔奖获得者 John Jumper 离开 DeepMind 前往竞争对手 Anthropic",
-        "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-        "source": "TechCrunch"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-20",
-    "run_time": "12:02",
-    "source_file": "2026-06-20_12-02-54.md",
-    "items": [
-      {
-        "layer": "T1",
-        "title": "为企业提供新的使用情况分析和更新的支出控制",
-        "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "改善ChatGPT中的健康智能",
-        "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "使用人工智能帮助医生诊断影响儿童的罕见遗传疾病",
-        "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "新的研究表明，我们的医疗人工智能AMIE可以帮助管理健康状况",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-        "source": "Google AI Blog"
-      },
-      {
-        "layer": "T2",
-        "title": "Adobe 重新设计的人工智能工作室会记住您的作品",
-        "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Photoshop 和 Premiere 现在有 AI 助手",
-        "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "苹果 2027 传闻：配备人工智能摄像头的 AirPods 和第二款折叠 iPhone",
-        "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Facebook 的新 AI 模式搜索从公开帖子中获取信息",
-        "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "如何在 Google 文档中关闭 AI",
-        "url": "https://techcrunch.com/2026/06/18/how-to-turn-off-ai-in-your-google-docs/",
-        "source": "TechCrunch"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-19",
-    "run_time": "12:03",
-    "source_file": "2026-06-19_12-03-00.md",
-    "items": [
-      {
-        "layer": "T1",
-        "title": "为企业提供新的使用情况分析和更新的支出控制",
-        "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "改善ChatGPT中的健康智能",
-        "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "使用人工智能帮助医生诊断影响儿童的罕见遗传疾病",
-        "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "新的研究表明，我们的医疗人工智能AMIE可以帮助管理健康状况。",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-        "source": "Google AI Blog"
-      },
-      {
-        "layer": "T2",
-        "title": "Adobe重新设计的人工智能工作室会记住您的作品",
-        "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Photoshop和Premiere现在有AI助手",
-        "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "苹果2027传闻：配备人工智能摄像头的AirPods和第二款折叠iPhone",
-        "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Facebook的新AI模式搜索从公开帖子中获取信息",
-        "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "加拿大养老金巨头加入为印度Ai推动的数据中心热潮提供资金的竞赛",
-        "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
-        "source": "TechCrunch"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-18",
-    "run_time": "12:03",
-    "source_file": "2026-06-18_12-03-45.md",
-    "items": [
-      {
-        "layer": "T1",
-        "title": "新的研究表明，我们的医疗人工智能AMIE可以帮助管理健康状况。",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-        "source": "Google AI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "一位近乎自主的人工智能化学家改善了药物化学中具有挑战性的反应",
-        "url": "https://openai.com/index/ai-chemist-improves-reaction",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "LifeSciBench简介",
-        "url": "https://openai.com/index/introducing-life-sci-bench",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "通过人工智能加速规划解锁英国房屋建筑",
-        "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-        "source": "DeepMind Blog"
-      },
-      {
-        "layer": "T2",
-        "title": "苹果2027传闻：配备人工智能摄像头的AirPods和第二款折叠iPhone",
-        "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Facebook的新AI模式搜索从公开帖子中获取信息",
-        "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "苹果新推出的人工智能照片编辑工具大部分都能正常工作，无论好坏",
-        "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "世界模型制造商Odyssey Nabs 1 45B估值由亚马逊和其他大牌支持",
-        "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
-        "source": "TechCrunch"
-      },
-      {
-        "layer": "T2",
-        "title": "Pinterest推出名为Ask Pinterest的实验性AI购物应用程序",
-        "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-        "source": "TechCrunch"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-16",
-    "run_time": "12:03",
-    "source_file": "2026-06-16_12-03-32.md",
-    "items": [
-      {
-        "layer": "T1",
-        "title": "我们正在通过新的投资和社区支持加强在阿拉巴马州的业务。",
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-        "source": "Google AI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "OpenAI合作伙伴网络简介",
-        "url": "https://openai.com/index/introducing-openai-partner-network",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "面向下一个工作时代的全新OpenAI学院课程",
-        "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "Preply如何结合人工智能和人类导师来个性化学习",
-        "url": "https://openai.com/index/preply",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1.5",
-        "title": "[推]该起飞了。",
-        "url": "https://x.com/OpenAI/status/2062249312839434452",
-        "source": "@OpenAI"
-      },
-      {
-        "layer": "T2",
-        "title": "Facebook的新AI模式搜索从公开帖子中获取信息",
-        "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "苹果新推出的人工智能照片编辑工具大部分都能正常工作，无论好坏",
-        "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Gemini提供Google TV体验",
-        "url": "https://www.theverge.com/tech/854112/gemini-google-tv-nano-banana-veo-ces",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Siri不会成为你的人工智能女友",
-        "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "谷歌不会只是承认它正在向YouTube创作者提供其音乐人工智能",
-        "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-        "source": "The Verge"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-13",
-    "run_time": "12:03",
-    "source_file": "2026-06-13_12-03-15.md",
-    "items": [
-      {
-        "layer": "T1",
-        "title": "面向下一个工作时代的全新 OpenAI 学院课程",
-        "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "Preply 如何结合人工智能和人类导师来个性化学习",
-        "url": "https://openai.com/index/preply",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "我们在弗吉尼亚州的新社区投资支持了当地的就业机会，并扩大了能源负担能力。",
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-        "source": "Google AI Blog"
-      },
-      {
-        "layer": "T1",
-        "title": "支持欧洲确保可信赖的人工智能生态系统的工作",
-        "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-        "source": "OpenAI Blog"
-      },
-      {
-        "layer": "T2",
-        "title": "Gemini 提供 Google TV 体验",
-        "url": "https://www.theverge.com/tech/854112/gemini-google-tv-nano-banana-veo-ces",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Siri 不会成为你的 AI 女友",
-        "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "谷歌不会只是承认它正在向 YouTube 创作者提供其音乐 AI",
-        "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Google 将保存您的 Lens 照片、搜索实时录制和翻译音频，以便进行 AI 培训",
-        "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "我尝试了 Siri AI，到目前为止，它实际上是有效的",
-        "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Add fallback nitter mirrors in `ai_news_digest_v2.py`",
+        "title": "AT&T 和微软通过 Microsoft Foundry 和 AMD 扩展万亿代币工作负载",
         "url": "",
-        "source": "single-instance dependency is a fragility risk"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-12",
-    "run_time": "12:02",
-    "source_file": "2026-06-12_12-02-36.md",
-    "items": [
-      {
-        "layer": "T2",
-        "title": "Google 因向 YouTube 创作者提供 Lyria 音乐 AI 遭起诉",
-        "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Google 将保留用户的 Lens 照片、Search 录音、翻译音频用于 AI 训练",
-        "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Apple Intelligence 新版 Siri AI 实测可用",
-        "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-        "source": "The Verge（WWDC 2026 / iOS 27）"
-      },
-      {
-        "layer": "T2",
-        "title": "微软 AI 负责人 Mustafa Suleyman 称 Anthropic 的 Claude 表现得像有意识",
-        "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Apple 押注 AI 照片编辑，可能助长深度伪造",
-        "url": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
-        "source": "The Verge（iOS 27 / WWDC 2026）"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-11",
-    "run_time": "12:03",
-    "source_file": "2026-06-11_12-03-20.md",
-    "items": [
-      {
-        "layer": "T1",
-        "title": "天体物理学家如何使用法典来帮助模拟黑洞 🔗 https://openai.com/index/using-codex-t",
-        "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-        "source": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-06-10",
-    "run_time": "12:03",
-    "source_file": "2026-06-10_12-03-37.md",
-    "items": [
-      {
-        "layer": "T1",
-        "title": "使用Gemini3.5实时翻译实现流畅、自然的语音翻译 🔗 https://deepmind.google/blog/f",
-        "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-        "source": "DeepMind Blog【3】推动欧洲机器人技术的未来 🔗 https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/"
-      },
-      {
-        "layer": "T2",
-        "title": "Nextdoor的工程师如何使用Codex无限制地构建 🔗 https://openai.com/index/nextd",
-        "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-        "source": ""
-      }
-    ]
-  },
-  {
-    "date": "2026-06-08",
-    "run_time": "12:04",
-    "source_file": "2026-06-08_12-04-50.md",
-    "items": [
-      {
-        "layer": "T1",
-        "title": "我们在2026年5月宣布的最新人工智能新闻",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-        "source": "Google AI Blog"
+        "source": "Microsoft"
       },
       {
         "layer": "T1",
-        "title": "Endava如何围绕AI代理重新设计软件交付",
-        "url": "https://openai.com/index/endava-frontiers",
-        "source": "OpenAI Blog"
+        "title": "ChatGPT 中启动 Health",
+        "url": "",
+        "source": "OpenAI"
       },
       {
         "layer": "T1",
-        "title": "梦想：更好的记忆力，更有帮助的ChatGPT",
-        "url": "https://openai.com/index/chatgpt-memory-dreaming",
-        "source": "OpenAI Blog"
+        "title": "加快科学发现的前沿：谷歌对 Genesis 使命的 $4000 万承诺",
+        "url": "",
+        "source": "DeepMind"
       },
       {
         "layer": "T1",
-        "title": "智能时代的生物防御",
-        "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
-        "source": "OpenAI Blog"
+        "title": "与埃芬汉县社区一起建设人工智能基础设施",
+        "url": "",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1",
+        "title": "来自 Galaxy Unpacked 2026 的 3 个 Google 更新",
+        "url": "",
+        "source": "Google"
       },
       {
         "layer": "T1.5",
-        "title": "[推]该起飞了。",
-        "url": "https://x.com/OpenAI/status/2062249312839434452",
+        "title": "ChatGPT Voice 现已在桌面应用中可用——仅用语音即可控制你的电脑",
+        "url": "",
+        "source": "@OpenAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "为研究人员提供高达 $50,000 的 Claude 使用额度，加速罕见疾病研究",
+        "url": "",
+        "source": "@AnthropicAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "推出两个新模型，在效率与质量间取得平衡，助力构建生产级 AI agents",
+        "url": "",
+        "source": "@GoogleAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "ChatGPT 中的 Health 已开始向美国用户推出，可安全连接 Apple Health 等数据",
+        "url": "",
         "source": "@OpenAI"
       },
       {
         "layer": "T2",
-        "title": "新的Siri又来了",
-        "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+        "title": "Meta 正使其 AI 聊天机器人更像助手",
+        "url": "",
         "source": "The Verge"
       },
       {
         "layer": "T2",
-        "title": "台积电努力跟上人工智能需求： \"我们只能支持这么多\"",
-        "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "亚马逊的搜索栏将发明您无法购买的人工智能生成产品",
-        "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "NOTION恢复了对人性化售后服务中断的访问",
-        "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+        "title": "生成式媒体领域日趋拥挤，Runway 押注 AI 模型路由",
+        "url": "",
         "source": "TechCrunch"
       },
       {
         "layer": "T2",
-        "title": "Meta在Facebook上推出全新AI创作者助手",
-        "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-        "source": "TechCrunch"
+        "title": "野火迫使 NASA 西班牙深空网络设施疏散",
+        "url": "",
+        "source": "Ars Technica"
       }
     ]
   },
   {
-    "date": "2026-06-05",
-    "run_time": "20:14",
-    "source_file": "2026-06-05_20-14-34.md",
+    "date": "2026-07-22",
+    "run_time": "12:13",
+    "source_file": "2026-07-22_12-13-56.md",
     "items": [
       {
         "layer": "T1",
-        "title": "How Endava is redesigning software delivery around AI agents",
-        "url": "https://openai.com/index/endava-frontiers",
-        "source": "OpenAI Blog"
+        "title": "推出面向小型企业的ChatGPT计划",
+        "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+        "source": "OpenAI"
       },
       {
         "layer": "T1",
-        "title": "梦想：更好的记忆力，更有帮助的ChatGPT",
-        "url": "https://openai.com/index/chatgpt-memory-dreaming",
-        "source": "OpenAI Blog"
+        "title": "隆重推出Gemini 3.6 Flash、3.5 Flash-Lite和3.5 Flash C…",
+        "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+        "source": "DeepMind"
       },
       {
         "layer": "T1",
-        "title": "智能时代的生物防御",
-        "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
-        "source": "OpenAI Blog"
+        "title": "连接更多应用程序进行搜索",
+        "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+        "source": "Google"
       },
       {
         "layer": "T1",
-        "title": "为GPT-Rosalind引入新功能",
-        "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-        "source": "OpenAI Blog"
+        "title": "OpenAI和Hugging Face合作伙伴在模型评估过程中解决安全事件",
+        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+        "source": "OpenAI"
       },
       {
         "layer": "T1.5",
-        "title": "[推]该起飞了。",
-        "url": "https://x.com/OpenAI/status/2062249312839434452",
+        "title": "我们正在推出三种新模式，以使AI智能体在规模上更快、更智能、更便宜",
+        "url": "https://x.com/GoogleDeepMind/status/2079589698490572961",
+        "source": "@GoogleDeepMind"
+      },
+      {
+        "layer": "T1.5",
+        "title": "隆重推出全新Le Chat：您在生活和工作中的终极AI助手！",
+        "url": "https://x.com/MistralAI/status/1887517520040448510",
+        "source": "@MistralAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "不用了，谢谢，但如果您愿意，我们将以97.4亿美元的价格收购Twitter",
+        "url": "https://x.com/sama/status/1889059531625464090",
+        "source": "@sama (Sam Altman)"
+      },
+      {
+        "layer": "T1.6",
+        "title": "思考机器的欢迎墨迹",
+        "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+        "source": "huggingface.co"
+      },
+      {
+        "layer": "T1.6",
+        "title": "Poolside发布Laguna S 2.1，在SWE-Bench Multilin…",
+        "url": "https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/",
+        "source": "marktechpost.com"
+      },
+      {
+        "layer": "T2",
+        "title": "谷歌推出比Mythos等大型人工智能安全模型更便宜的替代方案",
+        "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "《奥德赛》导演克里斯托弗·诺兰称艾安为明显的特洛伊木马",
+        "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+        "source": "TechCrunch"
+      },
+      {
+        "layer": "T2",
+        "title": "路虎揽胜回答了这个问题：\"如果我们建造了一辆非SUV怎么办？\"",
+        "url": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
+        "source": "Ars Technica"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-18",
+    "run_time": "12:10",
+    "source_file": "2026-07-18_12-10-49.md",
+    "items": [
+      {
+        "layer": "T1",
+        "title": "人工智能时代的记分卡",
+        "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1",
+        "title": "连接更多应用程序进行搜索",
+        "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+        "source": "Google"
+      },
+      {
+        "layer": "T1",
+        "title": "我们的生物复原力方法",
+        "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+        "source": "DeepMind"
+      },
+      {
+        "layer": "T1",
+        "title": "为什么青少年应该获得安全的人工智能",
+        "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1",
+        "title": "通过两次Google Vids更新，创建、编辑和为视频加星标",
+        "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+        "source": "Google"
+      },
+      {
+        "layer": "T1.5",
+        "title": "人们喜欢GPT-5.6 SOL的10,000个理由",
+        "url": "https://x.com/OpenAI/status/2078223217773474134",
         "source": "@OpenAI"
       },
       {
         "layer": "T1.5",
-        "title": "[推]当我们的一个模型发现一个80岁的Erdős猜想的反例时会发生什么？研究人员 @alexwei_ @HongxunW",
-        "url": "https://x.com/OpenAI/status/2062630454537424930",
+        "title": "新人类学研究：语言模型的全球工作空间",
+        "url": "https://x.com/AnthropicAI/status/2074185348142280912",
+        "source": "@AnthropicAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "RT @Gemini_Notebook：3年前，我们从一个小小的实验开始…",
+        "url": "https://x.com/GoogleAI/status/2077816151200223389",
+        "source": "@GoogleAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "以下是在Codex中添加Codex Security插件并开始使用的方法",
+        "url": "https://x.com/OpenAI/status/2078243670265041038",
         "source": "@OpenAI"
       },
       {
         "layer": "T2",
-        "title": "台积电努力跟上人工智能需求： \"我们只能支持这么多\"",
-        "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+        "title": "TikTok正在测试人工智能肖像检测工具",
+        "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
         "source": "The Verge"
       },
       {
         "layer": "T2",
-        "title": "亚马逊的搜索栏将发明您无法购买的人工智能生成产品",
-        "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+        "title": "在硬件法律斗争中，OpenAI发布了用于Codex的230键盘",
+        "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+        "source": "TechCrunch"
+      },
+      {
+        "layer": "T2",
+        "title": "谷歌支持的野火探测卫星发射",
+        "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+        "source": "Ars Technica"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-17",
+    "run_time": "12:05",
+    "source_file": "2026-07-17_12-05-34.md",
+    "items": [
+      {
+        "layer": "T1",
+        "title": "为什么青少年应该获得安全的人工智能",
+        "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1",
+        "title": "连接更多应用程序进行搜索",
+        "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+        "source": "Google"
+      },
+      {
+        "layer": "T1",
+        "title": "我们的生物复原力方法",
+        "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+        "source": "DeepMind"
+      },
+      {
+        "layer": "T1",
+        "title": "通过两次 Google Vids 更新，创建、编辑和为视频加星标",
+        "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+        "source": "Google"
+      },
+      {
+        "layer": "T1",
+        "title": "Cars24 如何通过 OpenAI 扩展对话并更快地构建",
+        "url": "https://openai.com/index/cars24",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "介绍 GPT-Red —— 内部自动化的红色团队成员，其任务是大规模发现模型的提示注入漏洞",
+        "url": "https://x.com/OpenAI/status/2077446718728425686",
+        "source": "@OpenAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "新人类学研究：语言模型的全局工作空间 —— 只有一小部分神经活动是有意识的",
+        "url": "https://x.com/AnthropicAI/status/2074185348142280912",
+        "source": "@AnthropicAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "来自 GoogleDeepMind 的转发",
+        "url": "https://x.com/GoogleAI/status/2075609303029776872",
+        "source": "@GoogleAI"
+      },
+      {
+        "layer": "T2",
+        "title": "谷歌将 NotebookLM 更名为 Gemini Notebook",
+        "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
         "source": "The Verge"
       },
       {
         "layer": "T2",
-        "title": "模型能力计划",
-        "url": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
-        "source": "The Verge"
+        "title": "Google Vids 现在可以让您在自己的 AI 视频中加星标",
+        "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+        "source": "TechCrunch"
       },
       {
         "layer": "T2",
-        "title": "谷歌必须让发布商选择退出人工智能搜索功能，英国规则",
-        "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "那台新奇的人工智能机器",
-        "url": "https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures",
-        "source": "The Verge"
+        "title": "SpaceX 在一些发动机未启动后擦洗星际飞船的发射",
+        "url": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
+        "source": "Ars Technica"
       }
     ]
   }
