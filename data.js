@@ -1,11 +1,11 @@
 /* ============================================
    AI News Daily · 数据文件
-   由 build_news.py 自动生成于 2026-08-16 12:16
+   由 build_news.py 自动生成于 2026-08-17 12:05
    ============================================ */
 
 const TODAY_DATA = {
   "date": "2026-08-16",
-  "run_time": "12:16",
+  "run_time": "12:05",
   "source_file": "2026-08-16_articles.json",
   "items": [
     {
@@ -84,6 +84,85 @@ const TODAY_DATA = {
 };
 
 const ARCHIVES = [
+  {
+    "date": "2026-08-16",
+    "run_time": "12:20",
+    "source_file": "2026-08-16_12-20-37.md",
+    "items": [
+      {
+        "layer": "T1",
+        "title": "[隆重推出 Gemini 3.7 Flash](https://deepmind.google/blog/introdu",
+        "url": "",
+        "source": "DeepMind"
+      },
+      {
+        "layer": "T1",
+        "title": "[Sheets 画布：让电子表格数据栩栩如生](https://blog.google/products-and-pla",
+        "url": "",
+        "source": "Google"
+      },
+      {
+        "layer": "T1",
+        "title": "[GPT-5.6 建设者指南](https://openai.com/index/builders-guide-to-g",
+        "url": "",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1",
+        "title": "[预览超快模式：GPT-5.6 SOL，速度高达 14 倍](https://openai.com/index/prev",
+        "url": "",
+        "source": "OpenAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "[Anthropic 发水印 FAQ：水印可关闭](https://x.com/AnthropicAI/status/2",
+        "url": "",
+        "source": "@AnthropicAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "[Gemini 3.7 Flash：编码和代理的最智能主力模型](https://x.com/GoogleAI/stat",
+        "url": "",
+        "source": "@GoogleAI"
+      },
+      {
+        "layer": "T1.5",
+        "title": "[Muse Glimmer：开放 30B 参数模型，针对本地常驻代理](https://x.com/AIatMeta/s",
+        "url": "",
+        "source": "@AIatMeta"
+      },
+      {
+        "layer": "T1.6",
+        "title": "[Databricks 同比增长 80%+，收入运行率破 70 亿美元](https://www.databricks.",
+        "url": "",
+        "source": "databricks.com"
+      },
+      {
+        "layer": "T1.6",
+        "title": "[Vals AI 收入增 8 倍，4000 万美元 A 轮、估值 4 亿](https://pulse2.com/val",
+        "url": "",
+        "source": "pulse2.com"
+      },
+      {
+        "layer": "T2",
+        "title": "[Gemini Spark 换装升级版 Flash 模型](https://www.theverge.com/tech/",
+        "url": "",
+        "source": "The Verge"
+      },
+      {
+        "layer": "T2",
+        "title": "[Writer 推出新模型+升级版 Harness 控制代币成本](https://techcrunch.com/202",
+        "url": "",
+        "source": "TechCrunch"
+      },
+      {
+        "layer": "T2",
+        "title": "[VisionQuest 预告片拉开迪士尼 D23 序幕](https://arstechnica.com/cultur",
+        "url": "",
+        "source": "Ars Technica"
+      }
+    ]
+  },
   {
     "date": "2026-08-11",
     "run_time": "12:08",
@@ -1089,158 +1168,6 @@ const ARCHIVES = [
         "layer": "T2",
         "title": "路虎揽胜回答了这个问题：\"如果我们建造了一辆非SUV怎么办？\"",
         "url": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
-        "source": "Ars Technica"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-18",
-    "run_time": "12:10",
-    "source_file": "2026-07-18_12-10-49.md",
-    "items": [
-      {
-        "layer": "T1",
-        "title": "人工智能时代的记分卡",
-        "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-        "source": "OpenAI"
-      },
-      {
-        "layer": "T1",
-        "title": "连接更多应用程序进行搜索",
-        "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-        "source": "Google"
-      },
-      {
-        "layer": "T1",
-        "title": "我们的生物复原力方法",
-        "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-        "source": "DeepMind"
-      },
-      {
-        "layer": "T1",
-        "title": "为什么青少年应该获得安全的人工智能",
-        "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-        "source": "OpenAI"
-      },
-      {
-        "layer": "T1",
-        "title": "通过两次Google Vids更新，创建、编辑和为视频加星标",
-        "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-        "source": "Google"
-      },
-      {
-        "layer": "T1.5",
-        "title": "人们喜欢GPT-5.6 SOL的10,000个理由",
-        "url": "https://x.com/OpenAI/status/2078223217773474134",
-        "source": "@OpenAI"
-      },
-      {
-        "layer": "T1.5",
-        "title": "新人类学研究：语言模型的全球工作空间",
-        "url": "https://x.com/AnthropicAI/status/2074185348142280912",
-        "source": "@AnthropicAI"
-      },
-      {
-        "layer": "T1.5",
-        "title": "RT @Gemini_Notebook：3年前，我们从一个小小的实验开始…",
-        "url": "https://x.com/GoogleAI/status/2077816151200223389",
-        "source": "@GoogleAI"
-      },
-      {
-        "layer": "T1.5",
-        "title": "以下是在Codex中添加Codex Security插件并开始使用的方法",
-        "url": "https://x.com/OpenAI/status/2078243670265041038",
-        "source": "@OpenAI"
-      },
-      {
-        "layer": "T2",
-        "title": "TikTok正在测试人工智能肖像检测工具",
-        "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "在硬件法律斗争中，OpenAI发布了用于Codex的230键盘",
-        "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-        "source": "TechCrunch"
-      },
-      {
-        "layer": "T2",
-        "title": "谷歌支持的野火探测卫星发射",
-        "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-        "source": "Ars Technica"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-17",
-    "run_time": "12:05",
-    "source_file": "2026-07-17_12-05-34.md",
-    "items": [
-      {
-        "layer": "T1",
-        "title": "为什么青少年应该获得安全的人工智能",
-        "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-        "source": "OpenAI"
-      },
-      {
-        "layer": "T1",
-        "title": "连接更多应用程序进行搜索",
-        "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-        "source": "Google"
-      },
-      {
-        "layer": "T1",
-        "title": "我们的生物复原力方法",
-        "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-        "source": "DeepMind"
-      },
-      {
-        "layer": "T1",
-        "title": "通过两次 Google Vids 更新，创建、编辑和为视频加星标",
-        "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-        "source": "Google"
-      },
-      {
-        "layer": "T1",
-        "title": "Cars24 如何通过 OpenAI 扩展对话并更快地构建",
-        "url": "https://openai.com/index/cars24",
-        "source": "OpenAI"
-      },
-      {
-        "layer": "T1.5",
-        "title": "介绍 GPT-Red —— 内部自动化的红色团队成员，其任务是大规模发现模型的提示注入漏洞",
-        "url": "https://x.com/OpenAI/status/2077446718728425686",
-        "source": "@OpenAI"
-      },
-      {
-        "layer": "T1.5",
-        "title": "新人类学研究：语言模型的全局工作空间 —— 只有一小部分神经活动是有意识的",
-        "url": "https://x.com/AnthropicAI/status/2074185348142280912",
-        "source": "@AnthropicAI"
-      },
-      {
-        "layer": "T1.5",
-        "title": "来自 GoogleDeepMind 的转发",
-        "url": "https://x.com/GoogleAI/status/2075609303029776872",
-        "source": "@GoogleAI"
-      },
-      {
-        "layer": "T2",
-        "title": "谷歌将 NotebookLM 更名为 Gemini Notebook",
-        "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-        "source": "The Verge"
-      },
-      {
-        "layer": "T2",
-        "title": "Google Vids 现在可以让您在自己的 AI 视频中加星标",
-        "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-        "source": "TechCrunch"
-      },
-      {
-        "layer": "T2",
-        "title": "SpaceX 在一些发动机未启动后擦洗星际飞船的发射",
-        "url": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
         "source": "Ars Technica"
       }
     ]
